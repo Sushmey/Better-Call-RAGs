@@ -18,8 +18,11 @@ import docx
 import pandas as pd
 from bs4 import BeautifulSoup
 
-load_dotenv()
-configure(api_key=os.getenv("GEMINI_API_KEY"))
+## Incase you want to use dotenv for env vars
+# load_dotenv()
+# configure(api_key=os.getenv("GEMINI_API_KEY"))
+
+configure(api_key=st.secrets["GEMINI_API_KEY"])
 
 # Might have to change the glob regex to look for different kinds of files
 loader = DirectoryLoader(
