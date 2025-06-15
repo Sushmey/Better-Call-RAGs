@@ -135,6 +135,8 @@ st.write(
 	"This is already trained with Cambridge Law Corpus but you can add your own files to add to the RAG! \n"
     "Upload a document below and ask a question about it! \n\n"
     "Note: Loading the dataset for the first time may take some time. \n"
+    "\n"
+    "Sample question: Give a brief summary of the case files provided"
 
 )
 
