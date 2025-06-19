@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<basic_case_document xmlns="https://github.com/cambridge-ai-and-law-project/CambridgeLawCorpus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/cambridge-ai-and-law-project/CambridgeLawCorpus https://github.com/cambridge-ai-and-law-project/CambridgeLawCorpus/schemas/case_schema.xsd">
+  <CLC-ID>25dd775f-2f47-4757-9ccc-e523c402dd1e</CLC-ID>
+  <document_source>html</document_source>
+  <court>England and Wales High Court (Administrative Court)</court>
+  <lower_court/>
+  <last_date_hearing_delivery>2016-11-03</last_date_hearing_delivery>
+  <neutral_citations>
+    <case_neutral_citation>[2017] 1 All ER 158</case_neutral_citation>
+    <case_neutral_citation>[2016] EWHC 2768 (Admin)</case_neutral_citation>
+    <case_neutral_citation>[2016] WLR(D) 564</case_neutral_citation>
+    <case_neutral_citation>[2017] 1 CMLR 34</case_neutral_citation>
+    <case_neutral_citation>[2016] HRLR 23</case_neutral_citation>
+  </neutral_citations>
+  <law_report_references>
+    <case_law_report_reference/>
+  </law_report_references>
+  <case_nr_of_year/>
+  <judges>
+    <judge/>
+  </judges>
+  <claimants>
+    <claimant/>
+  </claimants>
+  <defendants>
+    <defendant/>
+  </defendants>
+  <solicitors>
+    <solicitor/>
+  </solicitors>
+  <barristers>
+    <barrister/>
+  </barristers>
+  <parties>
+    <case_name_party/>
+  </parties>
+  <case_text><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+England and Wales High Court (Administrative Court) Decisions
+
+
+
+
+
+
+
+England and Wales High Court (Administrative Court) Decisions  >>
+
+Miller & Anor, R (On the Application Of) v The Secretary of State for Exiting the European Union (Rev 1) [2016] EWHC 2768 (Admin) (03 November 2016)
+[2017] 1 All ER 158,
+
+[2016] EWHC 2768 (Admin),
+
+[2016] WLR(D) 564,
+
+[2017] 1 CMLR 34,
+
+[2016] HRLR 23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Neutral Citation Number: [2016] EWHC 2768 (Admin)
+
+
+
+
+Case No: CO/3809/2016 and CO/3281/2016
+
+
+IN THE HIGH COURT OF JUSTICE  QUEEN'S BENCH DIVISION  DIVISIONAL COURT
+
+
+
+
+
+Royal Courts of Justice  Strand, London. WC2A 2LL
+
+
+
+
+03/11/2016
+
+
+B e f o r e :
+LORD CHIEF JUSTICE OF ENGLAND AND WALES THE MASTER OF THE ROLLS LORD JUSTICE SALES
+____________________
+Between:
+
+
+
+The Queen on the application of (1) Gina Miller & (2) Deir Tozetti Dos Santos
+Claimants
+
+
+
+- and -
+
+
+
+
+The Secretary of State for Exiting the European Union
+Defendant
+
+
+
+(1) Grahame Pigney & Others (2) AB, KK, PR and Children
+Interested Parties
+
+
+
+Mr George Birnie & Others
+Interveners
+
+
+____________________
+
+Lord Pannick QC, Rhodri Thompson QC, Anneli Howard and Tom Hickman (instructed by Mishcon de Reya LLP) for the 1st Claimant
+Dominic Chambers QC, Jessica Simor QC and Benjamin John (instructed by Edwin Coe LLP) for the 2nd Claimant
+H. M. Attorney-General, James Eadie QC, Jason Coppel QC, Tom Cross and Christopher Knight (instructed by Her Majesty's Government) for the Defendant Secretary of State
+Helen Mountfield QC, Gerry Facenna QC, Tim Johnston, Jack Williams and John Halford (instructed by Bindmans LLP) for the 1st Interested Parties
+Manjit Gill QC, Ramby De Mello and Tony Muman (instructed by Bhatia Best Solicitors) for the 2nd Interested Parties
+Patrick Green QC, Henry Warwick, Paul Skinner and Matthieu Gregoire (instructed by Croft Solicitors) for the Interveners
+Hearing dates: 13th, 17th and 18th October 2016
+
+____________________
+HTML VERSION OF APPROVED JUDGMENT (slightly amended 22/11/2016)
+____________________
+Crown Copyright ©
+
+
+Lord Thomas of  Cwmgiedd CJ ,  Sir Terence  Etherton  MR and Sales LJ :
+Introduction
+(a)	 The question for the court
+On 1 January 1973 the United Kingdom joined the European Communities, This occurred as a result  of  a process of Treaty negotiation by the government, the enactment of the European Communities Act 1972 ("the ECA 1972") to give effect to Community law in the national legal systems of the United Kingdom and then ratification by the United Kingdom and other Member States  of  the amended Community Treaties, Thus, as a result  of  the ECA 1972, Parliament by primary legislation gave effect in each jurisdiction of the United Kingdom to binding obligations and rights arising under those Treaties. In due course the European Communities became the European Union,
+
+
+On 23 June 2016 a referendum took place under the European Union Referendum Act 2015 ("the 2015 Referendum Act"). The question asked in the referendum was "Should the United Kingdom remain a member of the European Union or leave the European Union?" The answer given in the referendum was that the United Kingdom should leave the European Union.
+
+
+Withdrawal from the European Union under the Treaty provisions of the European Union is governed by Article 50 of the Treaty on European Union ("TEU"). That Article came into force in 2009 after amendment of the TEU by the Lisbon Treaty of 2007.
+
+
+The sole question in this case is whether, as a matter of the constitutional law of the United Kingdom, the Crown - acting through the executive government of the day - is entitled to use its prerogative powers to give notice under Article 50 for the United Kingdom to cease to be a member of the European Union. It is common ground that withdrawal from the European Union will have profound consequences in terms of changing domestic law in each of the jurisdictions of the United Kingdom.
+
+
+(b)	 The common ground that the question is justiciable
+It is agreed on all sides that this is a justiciable question which it is for the courts to decide. It deserves emphasis at the outset that the court in these proceedings is only dealing with a pure question of law. Nothing we say has any bearing on the question of the merits or demerits of a withdrawal by the United Kingdom from the European Union; nor does it have any bearing on government policy, because government policy is not law. The policy to be applied by the executive government and the merits or demerits of withdrawal are matters of political judgement to be resolved through the political process. The legal question is whether the executive government can use the Crown's prerogative powers to give notice of withdrawal. We are not in any way concerned with the use that may be made of the Crown's prerogative power, if such a power can as a matter of law be used in respect of Article 50, or what will follow if the Crown's prerogative powers cannot be so used.
+
+
+(c)	 The parties to the proceedings to resolve the legal question
+The Secretary of State is the appropriate representative of the Crown acting through the government. If the claimants' case is correct, it will of course cover action by any other government minister. Aspects of the submissions for the government were presented in turn by the Attorney General, Mr Eadie QC and Mr Coppel QC.
+
+
+It is not difficult to identify people with standing to bring the challenge since virtually everyone in the United Kingdom or with British citizenship will, as we explain at paragraphs 58 and following, have their legal rights affected if notice is given under Article 50. The claimants and interested parties comprise a range of people whose interests are potentially affected in different ways. The main part of the argument for the claimants was presented by Lord Pannick QC, appearing for the first claimant. His submissions were adopted by those appearing for the other claimant and the interested parties. Certain aspects of the argument for the claimants and the interested parties were presented by other counsel. Mr Chambers QC, appearing for the second claimant, dealt with the topic of parliamentary sovereignty. Miss Mountfield QC, appearing for one group of interested parties, dealt with the topics of EU citizenship rights, the position of Scotland under the Act of Union 1707 and the impact of the devolution legislation. Mr Green QC, appearing for interveners who are British citizens (or those associated with them) exercising their free movement rights under EU law by living in other EU Member States and having access to public services there, focused on the impact which notification under Article 50 would have upon them and also dealt in particular with the effect of the European Union Act 2011. Mr Gill QC focused on the position of another group of interested parties for whom he appeared, who are children and their carers whose immigration status in the United Kingdom may be affected as a result of notification under Article 50. Counsel for the Lord Advocate of Scotland and for the Counsel General of Wales were present in court but played no part in the proceedings.
+
+
+(d)	 The scheme of the judgment
+We will answer the question for our decision under the following headings:
+
+
+
+(1)	 Article 50 of the TEU (paragraphs 9-17)
+(2)	 The principles of constitutional law: the sovereignty of Parliament and the prerogative powers of the Crown (paragraphs 18-36)
+(3)	 The domestic effect of EU law under the ECA 1972 (paragraphs 37-56)
+(4)	 Categories of rights arising under the ECA 1972 and EU law (paragraphs 57-66)
+(5)	 UK legislation in relation to the EU subsequent to the ECA 1972 (paragraphs 67- 72)
+(6)	 The parties' principal submissions (paragraphs 73-76)
+(7)	 Our decision on the question (paragraphs 77-104)
+(8)	 The Referendum Act 2015 (see paragraphs 105-108)
+(9)	 Conclusion and form of declaratory relief (paragraphs 109-111)
+
+(1)	 Article 50 of the TEU
+(a)	 The terms of Article 50
+Article 50 states;
+
+
+"1. Any Member State may decide to withdraw from the Union in accordance with its own constitutional requirements,
+2.	A Member State which decides to withdraw shall notify the European Council of its intention. In the light of the guidelines provided by the European Council, the Union shall negotiate and conclude an agreement with that State, setting out the arrangements for its withdrawal, taking account of the framework for its future relationship with the Union. That agreement shall be negotiated in accordance with Article 218(3) of the Treaty on the Functioning of the European Union. It shall be concluded on behalf of the Union by the Council, acting by a qualified majority, after obtaining the consent of the European Parliament.
+3.	The Treaties shall cease to apply to the State in question from the date of entry into force of the withdrawal agreement or, failing that, two years after the notification referred to in paragraph 2, unless the European Council, in agreement with the Member State concerned, unanimously decides to extend this period.
+4.	For the purposes of paragraphs 2 and 3, the member of the European Council or of the Council representing the withdrawing Member State shall not participate in the discussions of the European Council or Council or in decisions concerning it.
+
+A qualified majority shall be defined in accordance with Article 238(3)(b) of the Treaty on the Functioning of the European Union.
+5.	 If a State which has withdrawn from the Union asks to rejoin, its request shall be subject to the procedure referred to in Article 49."
+(b)	  Common ground: notice is irrevocable and cannot be conditional
+Important matters in respect of Article 50 were common ground between the parties: (1) a notice under Article 50(2) cannot be withdrawn, once it is given; and (2) Article 50 does not allow for a conditional notice to be given: a notice cannot be qualified by, for example, saying that it will only take effect if Parliament approves any agreement made in the course of the negotiations contemplated by Article 50(2).
+
+
+
+(c)	  The effect of the notice
+Once a notice is given, it will inevitably result in the complete withdrawal of the United Kingdom from membership of the European Union and from the relevant Treaties at the end of the two year period, subject only to an agreement on an extension of time between the United Kingdom and the European Council (acting unanimously) as set out in Article 50(3) or the earlier making of a withdrawal agreement between the United Kingdom and the European Council (acting by a qualified majority and with the consent of the European Parliament). The effect of the giving of notice under Article 50 on relevant rights is direct, even though the Article 50 process will take a while to be worked through.
+
+
+
+A withdrawal agreement under Article 50, if one is made, may preserve some parts of the relevant Treaties or may make completely new provision for various matters. Since the Crown will negotiate the terms of any withdrawal agreement, this means that the Crown is entitled to pick and choose which existing EU rights, if any, to preserve - if it can, persuade the European Council to agree - and which to remove. Again, therefore, the effect of the Article 50 negotiation process on relevant rights is direct.
+
+
+The Secretary of State was at pains to emphasise that, if a withdrawal agreement is made, it is very likely to be a treaty requiring ratification and as such would have to be submitted for review by Parliament, acting separately, under the negative resolution procedure set out in section 20 of the Constitutional Reform and Governance Act 2010 ("the CRAG 2010"). The procedure under section 20 does not involve the enactment of primary legislation. For this reason, the claimants do not accept that the Secretary of State's reliance on the CRAG 2010 meets their submission.
+
+
+Moreover, if by virtue of the operation of the procedure under section 20 a decision were taken that a withdrawal agreement should not be ratified, meaning that it did not come into effect as an agreement, the effect would be that the basic two year period would continue to run under Article 50(3) so that the EU Treaties would cease to apply to the United Kingdom at the expiry of that period (or any agreed extension). Parliament's consideration of any withdrawal agreement under the procedure in the CRAG 2010 would thus be constrained by the knowledge that if it did not approve ratification of it, however inadequate it might believe the withdrawal agreement to be, the alternative would likely eventually to be complete removal of all rights for the United Kingdom and British citizens under the EU Treaties when the relevant Article 50 time period expires.
+
+
+(d)	 Is the challenge by the claimants a challenge to the decision to withdraw or giving of the notice?
+There was some debate about whether the claimants' challenge is properly to be regarded as a challenge to the making of a decision to withdraw from the European Union under Article 50(1) or a decision to notify the European Council under Article 50(2).
+
+
+In our view, nothing really turns on this, since it is clear that the two provisions have to be read together. The notification under Article 50(2) is of a decision under Article 50(1). If the Crown has no prerogative power under the constitutional law of the United Kingdom to give a notice under Article 50(2), then it would appear to follow that under the provisions of Article 50(1) it cannot, on behalf of the United Kingdom, acting solely under its prerogative powers, make a decision to withdraw "in accordance with [the United Kingdom's] own constitutional requirements".
+
+
+However, we agree with the submission of Lord Pannick QC that, whatever the position in relation to any decision under Article 50(1), a decision to give notice under Article 50(2) is certainly the appropriate target for this legal challenge, since it is the giving of notice which triggers the effects under Article 50(2) and (3) leading to the exit of a Member State from the European Union and from the relevant Treaties.
+
+
+(2)	 The principles of constitutional law: the   sovereignty of Parliament and the prerogative   powers of the Crown
+(a)	  The United Kingdom constitution
+The United Kingdom does not have a constitution to be found entirely in a written document. This does not mean there is an absence of a constitution or constitutional law. On the contrary, the United Kingdom has its own form of constitutional law, as recognised in each of the jurisdictions of the four constituent nations. Some of it is written, in the form of statutes which have particular constitutional importance (as we explain at paragraphs 43-44). Some of it is reflected in fundamental rules of law recognised by both Parliament and the courts. There are established and well- recognised legal rules which govern the exercise of public power and which distribute decision-making authority between different entities in the state and define the extent of their respective powers. The United Kingdom is a constitutional democracy framed by legal rules and subject to the rule of law. The courts have a constitutional duty fundamental to the rule of law in a democratic state to enforce rules of constitutional law in the same way as the courts enforce other laws.
+
+
+In these proceedings, this court is called upon to apply the constitutional law of the United Kingdom to determine whether the Crown has prerogative powers to give notice under Article 50 to trigger the process for withdrawal from the European Union. The law we were taken to was primarily the law of England and Wales, with some reference to the position in the other jurisdictions in the United Kingdom, Scotland and Northern Ireland. Although this court only has jurisdiction to apply the law of England and Wales, we note that no-one in these proceedings has suggested that such parts of constitutional law in Scotland and Northern Ireland in relation to the interaction between statute and the Crown's prerogative powers as are relevant to determine the outcome in this case are any different from the law of England and Wales on that topic. Accordingly, for ease of reference and in view of the general constitutional importance of this case we will refer to UK constitutional law.
+
+
+(b)	 The sovereignty of the United Kingdom Parliament
+It is common ground that the most fundamental rule	of UK constitutional law is that the Crown in Parliament is sovereign and that legislation enacted by the Crown with the consent of both Houses of Parliament is supreme (we will use the familiar shorthand and refer simply to Parliament). Parliament can, by enactment of primary legislation, change the law of the land in any way it chooses. There is no superior form of law than primary legislation, save only where Parliament has itself made provision to allow that to happen. The ECA 1972, which confers precedence on EU law, is the sole example of this.
+
+
+But even then Parliament remains sovereign and supreme, and has continuing power to remove the authority given to other law by earlier primary legislation. Put shortly, Parliament has power to repeal the ECA 1972 if it wishes.
+
+
+In what is still the leading account,  An Introduction to the Law of the Constitution  by the constitutional jurist Professor A.V. Dicey, he explains that the principle of Parliamentary sovereignty means that Parliament has:
+
+
+"the right to make or unmake any law whatever; and further, that no person or body is recognised by the law ... as having a right to override or set aside the legislation of Parliament."
+
+(p. 38 of the 8 th  edition, 1915, the last edition by Dicey himself; and see chapter 1 generally).
+Amongst other things, this has the corollary that it cannot be said that a law is invalid as being opposed to the opinion of the electorate, since as a matter of law:
+"'The judges know nothing about any will of the people except in so far as that will is expressed by an Act of Parliament, and would never suffer the validity of a statute to be questioned on the ground of its having been passed or being kept alive in opposition to the wishes of the electors."  (ibid.  pp. 57 and 72).
+The principle of Parliamentary sovereignty has been recognised many times in leading cases of the highest authority. Since the principle is common ground in these proceedings it is only necessary to cite the speech of Lord Bingham of Cornhill in  R (Jackson) v Attorney General   [2005] UKHL 56 ;  [2006] 1 AC 262  at para. [9]:
+
+
+"The bedrock of the British constitution is ... the supremacy of the Crown in Parliament."
+(c)	 The Crown's prerogative powers
+The extent of the powers of the Crown under its prerogative (often called the royal prerogative) are delineated by UK constitutional law. These prerogative powers constitute the residue of legal authority left in the hands of the Crown. As Lord Reid said in  Burmah Oil Co (Burma Trading) Ltd v Lord Advocate   [1965] AC 75 , at 101:
+
+
+"The prerogative is really a relic of a past age, not lost by disuse, but only available for a case not covered by statute."
+An important aspect of the fundamental principle of Parliamentary sovereignty is that primary legislation is not subject to displacement by the Crown through the exercise of its prerogative powers. But the constitutional limits on the prerogative powers of the Crown are more extensive than this. The Crown has only those prerogative powers recognised by the common law and their exercise only produces legal effects within boundaries so recognised. Outside those boundaries the Crown has no power to alter the law of the land, whether it be common law or contained in legislation.
+
+
+This subordination of the Crown (i.e. the executive government) to law is the foundation of the rule of law in the United Kingdom. It has its roots well before the war between the Crown and Parliament in the seventeenth century but was decisively confirmed in the settlement arrived at with the Glorious Revolution in 1688 and has been recognised ever since.
+
+
+Sir Edward Coke reports the considered view of himself and the senior judges of the time in  The. Case of Proclamations  (1610) 12 Co, Rep. 74, that:
+
+
+"the King by his proclamation or other ways cannot change any part of the common law, or statute law, or the customs of the realm"
+and that:
+"the King hath no prerogative, but that which the law of the land allows him."
+The position was confirmed in the first two parts of section 1 of the Bill of Rights 1688:
+
+
+"Suspending power - That the pretended power of suspending of laws or the execution of laws by regall authority without consent of Parlyament is illegall.
+Late dispensing power - That the pretended power of dispensing with laws or the execution of laws by regall authoritie as it hath beene assumed and exercised of Sate is illegall."
+
+The legal position was summarised by the Privy Council in  The Zamora   [1916] 2 AC 77 , at 90:
+
+
+"The idea that the King in Council, or indeed any branch of the Executive, has power to prescribe or alter the law to be administered by Courts of law in this country is out of harmony with the principles of our Constitution. It is true that, under a number of modern statutes, various branches of the Executive have power to make rules having the force of statutes, but all such rules derive their validity from the statute which creates the power, and not from the executive body by which they are made. No one would contend that the prerogative involves any power to prescribe or alter the law administered in Courts of Common Law or Equity...''
+These principles are not only well settled but are also common ground. It is therefore not necessary to explain them further.
+(d)	 The power under the Crown's prerogative to make and unmake treaties
+Another settled feature of UK constitutional law is that, as a general rule applicable in normal circumstances, the conduct of international relations and the making and unmaking of treaties on behalf of the United Kingdom are regarded as matters for the Crown in the exercise of its prerogative powers.
+
+
+As we shall explain in more detail in examining the submission of the Secretary of State (see paragraphs 77 and following), it is the Secretary of State's case that nothing has been done by Parliament in the ECA 1972 or any other statute to remove the prerogative power of the Crown, in the conduct of the international relations of the United Kingdom, to take steps to remove the United Kingdom from the European Union by giving notice under Article 50 for the United Kingdom to withdraw from the TEU and other relevant EU Treaties, The Secretary of State relies in particular on  Attorney General v De Keyser's Royal Hotel   [1920] AC 508  and  R v Secretary of State for Foreign and Commonwealth Affairs, ex p, Rees-Mogg   [1994] QB 552  (DC); he contends that the Crown's prerogative power to cause the United Kingdom to withdraw from the European Union by giving notice under Article 50 could only have been removed by primary legislation using express words to that effect, alternatively by legislation which has that effect by necessary implication, The Secretary of State contends that neither the ECA 1972 nor any of the other Acts of Parliament referred to have abrogated this aspect of the Crown's prerogative, either by express words or by necessary implication.
+
+
+(e)	 The effect of Treaties on the domestic law of the United Kingdom
+The general rule that the conduct of international relations, including the making and unmaking of treaties, is a matter for the Crown in exercise of its prerogative powers arises in the context of the basic constitutional principle to which we have referred at paragraph 25 above, that the Crown cannot change domestic law by any exercise of its prerogative powers. The Crown's prerogative power to conduct international relations is regarded as wide and as being outside the purview of the courts precisely because the Crown cannot, in ordinary circumstances, alter domestic law by using such power to make or unmake a treaty. By making and unmaking treaties the Crown creates legal effects on the plane of international law, but in doing so it does not and cannot change domestic law. It cannot without the intervention of Parliament confer rights on individuals or deprive individuals of rights.
+
+
+The general position was explained by Lord Oliver of Aylmerton giving the leading speech in the Tin Council case,  J.H. Rayner (Mincing Lane) Ltd  v  Department of Trade and Industry  [1990] 2 AC 418, at 499E-500D as follows:
+
+
+"It is axiomatic that municipal courts have not and cannot have the competence to adjudicate upon or to enforce the rights arising out of transactions entered into by independent sovereign states between themselves on the plane of international law. That was firmly established by this House in  Cook  v.  Sprigg  [1899] AC 572 , 578, and was succinctly and convincingly expressed in the opinion of the Privy Council delivered by Lord Kingsdown in  Secretary of State in Council of India v. Kamachee Boye Sahaba  (1859) 13 Moo. P.C.C. 22, 75:
+"The transactions of independent states between each other are governed by other laws than those which municipal courts administer: such courts have neither the means of deciding what is right, nor the power of enforcing any decision which they may make."
+On the domestic plane, the power of the Crown to conclude treaties with other sovereign states is an exercise of the Royal Prerogative, the validity of which cannot be challenged in municipal law: see  Blackburn v, Attorney-General   [1971] 1 WLR 1037 .  The Sovereign acts
+"throughout the making of the treaty and in relation to each and every of its stipulations in her sovereign character, and by her own inherent authority; and, as in making the treaty, so in performing the treaty, she is beyond the control of municipal law, and her acts are not to be examined in her own courts:"  Rustomjee  v.  The Queen  (1876) 2 Q.B.D. 69, 74,  per  Lord Coleridge C.J.
+That is the first of the underlying principles. The second is that, as a matter of the constitutional law of the United Kingdom, the Royal Prerogative, whilst it embraces the making of treaties, does not extend to altering the law or conferring rights upon individuals or depriving individuals of rights which they enjoy in domestic law without the intervention of Parliament. Treaties, as it is sometimes expressed, are not self-executing. Quite simply, a treaty is not part of English law unless and until it has been incorporated into the law by legislation. So far as individuals are concerned, it is  res inter alios acta  from which they cannot derive rights and by which they cannot be deprived of rights or subjected to obligations; and it is outside the purview of the court not only because it is made in the conduct of foreign relations, which are a prerogative of the Crown, but also because, as a source of rights and obligations, it is irrelevant."
+We would add that treaties can have certain indirect interpretive effects in relation to domestic law, such as those discussed in  R v Lyons   [2002] UKHL 44 ;  [2003] 1 AC 976  at [27]-[28]; but this does not affect the basic position that the Crown cannot through the use of its prerogative powers increase or diminish or dispense with the rights of individuals or companies conferred by common law or statute or change domestic law in any way without the intervention of Parliament.
+
+(f)	 The relevance of the principles to the question	in the case
+A particular feature of the present case is that the legal question for decision arises in a statutory context in which a direct link exists between, on the one hand, rights and obligations arising through action taken on the international plane - by entry into and continued membership of the European Communities (now, the European Union) and creation of EU law in the relevant Treaties and by law-making institutions of the European Union - and, on the other, the content of domestic law. This is the result of a combination of principles of EU law, including principles of direct effect of EU law in the national legal systems of Member States, and the terms of the ECA 1972, which we consider at paragraphs 37 and following below.
+
+
+It is this feature of the legal context which leads the claimants and interested parties to contend, in their subsidiary submission, that the ECA 1972 and other statutes which provide that EU law has effect in domestic law leave no room for the Crown to have any prerogative power to give notice under Article 50 to withdraw from the TEU and other relevant Treaties, since that would offend against the constitutional principle summarised in  The Zamora  by allowing the Crown to alter domestic law by exercise of its prerogative powers and to deprive them of their legal rights under that law.
+
+
+At the same time, it is this feature which leads the Secretary of State to contend that the Crown's prerogative power to give notice to withdraw from the TEU and the other treaties has not been removed by primary legislation. Hence, it is argued, Parliament must be taken to have recognised that the Crown would have power to give notice under Article 50 in the exercise of its prerogative to conduct international relations on the part of the United Kingdom and thereby intended that the Crown should have power to bring about the changes in domestic law about which the claimants complain.
+
+
+(3)	 The domestic effect of EU law and the ECA 1972
+(a)	 The forms of EU law and the role of the Court of Justice of the European Union
+As again the basic picture about how EU law operates is common ground, it is not necessary to give more than a brief explanation. Put very shortly, therefore, EU law as contained in the relevant Treaties in some parts contains rights for individuals and in other parts creates law-making institutions which can legislate to make new legally binding norms of EU law from time to time. The principal forms of EU legislation are Directives, which require Member States to introduce changes into their national law in conformity with what is set out in them, and (2) Regulations, which have direct effect in the national law of Member States. Where the Treaties create rights for individuals, those rights may be enforced as directly effective in the national courts of Member States. The same is true of rights set out in Regulations. Also, some individual rights set out in Directives are directly effective and may be relied upon in the national courts of Member States.
+
+
+These directly effective rights under EU law override even domestic primary legislation. Thus, for so long as EU law is accepted and applied by the national courts of a Member State, it operates as a form of law which is in that sense superior to all domestic law.
+
+
+The Community and EU Treaties created the European Court of Justice (now the Court of Justice of the European Union - "CJEU") as the judicial body with authority to interpret and rule upon EU law. The CJEU does so both in proceedings brought by Member States or by EU institutions and in cases referred to it by national courts under the reference procedure now contained in Article 267 of the Treaty on the Functioning of the European Union ("TFEU"). Controversial issues of EU law are to be referred by national courts to the CJEU for authoritative determination by that Court, and national courts are obliged to apply EU law as interpreted by the CJEU.
+
+
+These basic features of Community law were established well before the United Kingdom joined the European Communities in 1973. In particular, the superiority of EU law with direct effect was established in the well-known judgments of the Court of Justice in Case 26/62,  Van Gend & Loos   ECLI:EU:C:1963:1  and Case 6/64  Costa v ENEL   [1964] ECR 585 . It has been affirmed many times since, for instance in the well-known judgment in Case 106/77,  Amminstrazione delle Finanze v Simmenthal SpA   ECLI:EU:C:1978:49 . Where EU law does not have direct effect but domestic legislation is introduced by a Member State to comply with its obligations under a Directive or other EU law, then as a matter of EU law a strong interpretive obligation applies so that the domestic legislation must be interpreted so as to be compatible with EU law wherever possible: Case C-106/89,  Mar leasing   ECLI:EU:C:1990:395 .
+
+
+(b)	 The need for the ECA 1972 and its effect on the law of the United Kingdom
+As a practical matter, by reason of the limits on its prerogative powers referred to at paragraph 25 above, the Crown could not have ratified the accession of the United Kingdom to the European Communities under the Community Treaties unless Parliament had enacted legislation. Legislation by Parliament was needed to give effect to EU law in the domestic law of the jurisdictions in the United Kingdom as was required by those Treaties and as was necessary to give effect in domestic law to the rights and obligations arising under EU law.
+
+
+It is common ground that only Parliament could create the necessary changes in national law to allow EU law to have the effect at the level of domestic law which the Treaties required. As we have explained at paragraph 1 above, this was done by the enactment of the ECA 1972 in contemplation of the United Kingdom becoming part of the European Communities by accession to the Community Treaties so as to allow that to happen. If this legislation had not first been put in place, ratification of the Treaties by the Crown would immediately have resulted in the United Kingdom being in breach of its obligations under them, by reason of the absence of provision for direct effect of EU law in domestic law.
+
+
+(c)	  The ECA 1972 us a constitutional statute
+In due course, the House of Lords confirmed in  R v Secretary of State for Transport, ex p. Factortame Ltd   [1990] 2 AC 85  that the ECA 1972 was effective, while it remained on the statute book, to give directly effective EU law superiority even over domestic primary legislation. By virtue of the ECA 1972, the national courts give full effect to EU law as part of the domestic law applied by them.
+
+
+As	Laws LJ said in  Thoburn  v  Sunderland City Council   [2003] QB 151  (DC) at [62]:
+
+
+"It may be there has never been a statute having such profound effects on so many dimensions of our daily lives."
+He described the ECA 1972 as a constitutional statute, having such importance in our legal system that it is not subject to the usual wide principle of implied repeal by subsequent legislation. Its importance is such that it could only be repealed or amended by express language in a subsequent statute or by necessary implication from the provisions of such a statute. Similarly, the ECA 1972 was described as one of a number of constitutional instruments by Lord Neuberger of Abbotsbury PSC and Lord Mance JSC in  R (Buckinghamshire County Council) v Secretary of State for Transport   [2014] UKSC 3 ;  [2014] 1 WLR 324 , at [207],
+(d)	The provisions of the ECA 1972
+The long title to the ECA 1972 states that it is:
+
+
+"An Act to make provision in connection with the enlargement of the European Communities to include the United Kingdom, together with (for certain purposes) the Channel Islands, the Isle of Man and Gibraltar".
+(At the time of the United Kingdom's accession in 1973, there were three Communities: the European Economic Community, the European Coal and Steel Community and the European Atomic Energy Community. The European Union has succeeded to these three Communities.)
+The ECA 1972 has been amended by primary legislation with each change to the Community Treaties to extend the scope of competence and modes of law-making within the Communities and, as it eventually became, the European Union. The list of Treaties set out in the ECA 1972 to define EU law which is given effect in domestic law has been amended on each occasion in advance of ratification of the new Treaty, following the same pattern as for the initial accession of the United Kingdom to the Communities and for the same reason: the need to provide for domestic effect of EU law in national law in order to satisfy the United Kingdom's obligations under each successive Treaty so that rights and obligations under the Treaty and EU law have effect in domestic law. Since the main provisions of the ECA 1972, as amended, are in essence the same as when that Act was passed, subject to the change in the list of relevant Treaties to which we have referred, it is sufficient to set out the relevant provisions of that Act in their current form.
+
+
+Section 1(2) sets out various definitions. It defines "the Treaties" to mean the pre-accession treaties described in Part I of Schedule I to the Act, "taken with" further specific treaties entered into since accession which are listed in the subsection:
+
+
+"and any other treaty entered into by the EU (except in so far as it relates to, or could be applied in relation to, the Common Foreign and Security Policy), with or without any of the member States, or entered into, as a treaty ancillary to any of the Treaties, by the United Kingdom."
+Section 1(3) stipulates that treaties falling within this general definition are to be identified by a declaration made by Her Majesty by Order in Council, and for treaties made after or incorporating terms agreed after 22 January 1972 such Order in Council must be approved in draft by resolution of each House of Parliament.
+
+
+Section 2 of the ECA 1972 is headed "General implementation of Treaties."  It gives effect to the United Kingdom's membership of the European Union and makes the changes to domestic law that are required as a result of membership.
+
+
+Section 2(1) provides:
+
+
+"All such rights, powers, liabilities, obligations and restrictions from time to time created or arising by or under the Treaties, and all such remedies and procedures from time to time provided for by or under the Treaties, as in accordance with the Treaties are without further enactment to be given legal effect or used in the United Kingdom shall be recognised and available in law, and be enforced, allowed and followed accordingly; and the expression 'enforceable EU right' and similar expressions shall be read as referring to one to which this subsection applies."
+
+By virtue of this provision all directly applicable EU law is made part of United Kingdom law and is enforceable as such.
+It is common ground that if the United Kingdom withdraws from the Treaties pursuant to a notice given under Article 50 of the TEU, there will no longer be any enforceable EU rights in relation to which this provision will have any application. Section 2(1) would be stripped of any practical effect.
+
+
+Section 2(2) confers power to implement any EU law obligation of the United Kingdom into domestic law, as follows:
+
+
+"Subject to Schedule 2 to this Act, at any time after its passing Her Majesty may by Order in Council, and any designated Minister or department may by order, rules, regulations or scheme, make provision -
+(a)	 for the purpose of implementing any EU obligation of the United Kingdom, or enabling any such obligation to be implemented, or of enabling any rights enjoyed or to be enjoyed by the United Kingdom under or by virtue of the Treaties to be exercised; or
+(b)	 for the purpose of dealing with matters arising out of or related to any such obligation or rights or the coming into force, or the operation from time to time, of subsection (1) above;
+."
+This provides for subordinate legislation to be promulgated to address those parts of EU law that are not directly applicable in domestic law, in particular to satisfy the requirements of Directives that are intended to be implemented by national measures. If the United Kingdom withdraws from the Treaties pursuant to a notice given under Article 50, this provision would in due course inevitably be deprived of any practical application.
+Section 2(4) provides, in relevant part:
+
+
+"The provision that may be made under subsection (2) above includes ... any such provision (of any such extent) as might be made by Act of Parliament, and any enactment passed or to be passed, other than one contained in this Part of this Act, shall be construed and have effect subject to the foregoing provisions of this section
+
+By this provision, as was recognised by the House of Lords in  ex p. Factortame Ltd,  Parliament legislated to give force and effect to EU law as set out in sections 2(1) and (2) in priority to all primary legislation, past or future.
+Section 3(1) requires the national courts in the United Kingdom to follow the rulings of the CJEU in the interpretation of EU law, as follows:
+
+
+"For the purposes of all legal proceedings any question as to the meaning or effect of any of the Treaties, or as to the validity, meaning or effect of any EU instrument, shall be treated as a question of law (and, if not referred to the European Court, be for determination as such In accordance with the principles laid down by and any relevant decision of the European Court)".
+(e)	 The right of withdrawal from the EU
+As we have mentioned at paragraph 3, it was only with the coming into effect of the Lisbon Treaty in 2009 that an express right for a Member State to leave the European Union was set out in the form of Article 50 of the TEU. We received brief submissions on the question whether, under international law as it stood before then (and in particular as it stood in 1972 and 1973, when the EGA 1972 was enacted and took effect), it would have been possible for the United Kingdom to withdraw front the Community Treaties after it had acceded to them on 1 January 1973. The Attorney General maintained that under customary international law the United Kingdom would have been entitled to give unilateral notice to withdraw. The claimants and interested parties pointed to Article 59 of the Vienna Convention on the Law of Treaties, which indicated that withdrawal could only have been achieved by agreement with the other parties.
+
+
+In the end, this difference is not significant for present purposes and does not have to be resolved. Neither side suggested that either interpretation of international law would assist us in addressing the question of law which we have to decide. Since on either view of international law the United Kingdom would in principle have been capable of seeking to withdraw from the relevant Treaties, whether by giving unilateral notice or by making and ratifying an agreement to do so, when enacting the ECA 1972 Parliament must be taken to have had that possibility in mind. The question would still have arisen whether Parliament intended that this should be something that the Crown would be able to do through exercise of its prerogative powers without Parliament's intervention.
+
+
+(4)	 Categories of rights arising under the ECA 1972 and EU law
+The parties presented a broad schematic account of three different categories of rights arising under EU law. For the purposes of analysis in this case it is helpful to use this scheme, although it is, of necessity, rather simplified. The analysis focuses on rights, but it is important to bear in mind that there are other substantial areas of EU law such as the schemes of regulation which take effect as part of the law of the United Kingdom.
+
+
+(a)	 Category (i): rights capable of replication in the law of the United Kingdom
+The first category of rights is those which are in principle capable of replication in domestic law if the United Kingdom does withdraw from the European Union ("category (i) rights"). One example discussed at the hearing is the rights of workers under the Working Time Directive. Even if the United Kingdom had no obligation under EU law to maintain such rights in domestic law, Parliament could choose to do so. The Secretary of State points to the fact that in many cases EU Directives and other EU laws have been implemented by domestic legislation, whether primary or subordinate, which will continue to apply, unless repealed, as free-standing enforceable domestic legislation when the United Kingdom leaves the European Union. The Secretary of State also points to the government's proposal for a Great Repeal Bill, according to which EU law rights would be re-enacted as ordinary rights in primary legislation.
+
+
+We note that although the rights might be re-enacted using the same language, there would be some differences. For example, national courts would have no obligation to make, and individuals would not be able to seek, a reference to the CJEU to obtain an interpretation of the rights by that Court. Of course, Parliament might choose not to replicate all existing EU law rights in domestic law,
+
+
+(b) Category (ii): rights enjoyed in other Members States of the EU
+The second category of rights is those enjoyed by British citizens and companies in relation to their activities in other Member States, as provided for by EU law, for example pursuant to rights of free movement of persons and of capital and rights of freedom of establishment ("category (ii) rights"). If a British citizen resides in another Member State pursuant to EU rights of free movement, EU law requires the authorities and courts of that Member State to respect and give effect to those rights. It also prohibits the authorities in the United Kingdom from placing impediments in the way of the exercise of such rights.
+
+
+(c)	  Category (iii): rights that could not be replicated in UK law
+The third category of rights is those which have an effect in the domestic law of the United Kingdom and which would be lost upon withdrawal from the European Union and which could not be replicated in domestic legislation ("category (iii) rights"). Mr Eadie QC, on behalf of the Secretary of State, characterised these as rights flowing from the membership of "the EU club". These include the right to stand for selection or, later, for election to the European Parliament and the right to vote in such elections (see paragraph 69 below). The right to seek a reference to the CJEU is another example. So is the right to seek to persuade the EU Commission to take regulatory action in relation to matters within the United Kingdom, such as to investigate a violation of EU competition law or of EU environmental protection legislation occurring within the United Kingdom and grant a remedy in relation to it.
+
+
+(d)	 The effect of withdrawal of the rights
+The point of discussion of these categories of rights at the hearing was to examine the extent to which withdrawal of the United Kingdom from the relevant EU Treaties would affect rights in domestic law and would undo or modify the legal effects as brought about by Parliament through the enactment of the ECA 1972. The claimants contend that Parliament by the ECA 1972 intended to give effect to each of these categories of right. They do so to emphasise the extent of the change which would be brought about by withdrawal pursuant to Article 50, in order to reinforce their argument that the Crown could not effect such changes by the exercise of its prerogative powers. The Secretary of State maintains that whatever the extent of the changes upon withdrawal, Parliament has left the Crown with prerogative power to give notice under Article 50. He also argues that the claimants exaggerate the extent and the degree to which categories (i) to (iii) were created by Parliament by the ECA 1972. The Secretary of State accepts that category (iii) rights would be lost upon withdrawal, but he sought to minimise the extent of loss of category (i) rights and disputed that category (ii) rights were the product of enactment of the ECA 1972.
+
+
+Since the Secretary of State accepts that category (iii) rights include rights applicable in domestic law which are at least in part the product of the ECA 1972 and will be lost upon withdrawal from the European Union, which is sufficient for the claimants' argument, these issues can be dealt with shortly.
+
+
+As to category (i) rights, we consider that the claimants are correct in their submission that it is the ECA 1972 which is the principal legislation under which these rights are given effect in domestic law of the United Kingdom: and that it is no answer to their case to say that some of them might be preserved under new primary legislation, yet to be enacted, when withdrawal pursuant to Article 50 takes place. The objection remains that the Crown, through exercise of its prerogative powers, would have deprived domestic law rights created by the ECA 1972 of effect. We also consider that the removal of the ability to seek authoritative rulings of the CJEU regarding the scope and interpretation of such rights would itself amount to a material change in the domestic law of the United Kingdom.
+
+
+As regards category (ii) rights, the prohibition against impediments to the exercise of these rights is part of EU law with direct applicability in the domestic law of the United Kingdom, as the Secretary of State accepts. However, the Secretary of State submits that the main content of these rights (say, the ability of a British citizen to rely on his or her rights of free movement when in another Member State) is not the product of the ECA 1972. Rather, it is the product of the operation of EU law in combination with the domestic law of that Member State, just as the free movement rights of a national of that Member State in England and Wales would be the product of EU law in combination with the domestic law of England and Wales. The Secretary of State says, further, that the effect of EU law on other Member States for the benefit of British citizens was brought about by ratification of the relevant EU Treaties by the Crown on behalf of the United Kingdom on the international plane and the reciprocal ratification of those treaties by other Member States, also on the international plane.
+
+
+In a highly formalistic sense, this may be accurate. But in our view, it is a submission which is divorced from reality. As explained at paragraphs 41-42 above, the enactment of the ECA 1972 was a necessary step before ratification of the relevant Treaties could occur, as Parliament knew. As Parliament contemplated, it was only if it enacted the ECA 1972 (and then amended it to refer to later EU Treaties) that ratification of those Treaties could occur. The reality is that Parliament knew and intended that enactment of the ECA 1972 would provide the foundation for the acquisition by British citizens of rights under EU law which they could enforce in the courts of other Member States. We therefore consider that the claimants are correct to say that withdrawal from the European Union pursuant to Article 50 would undo the category (ii) rights which Parliament intended to bring into effect, and did in fact bring into effect, by enacting the ECA 1972. Although these are not rights enforceable in the national courts of the United Kingdom, they are nonetheless rights of major importance created by Parliament. Accordingly, the claimants are entitled to say that it would be surprising if they could be removed simply through action by the Crown under its prerogative powers.
+
+
+(5)	 UK  legislation  in relation to the EU subsequent to the ECA 1972
+(a)	 The European Communities (Amendment) Act 2008
+As mentioned at paragraph 46 above, the ECA 1972 has been amended on a number of occasions to give effect to new EU Treaties as they have been made and ratified by the United Kingdom. This includes amendment of the ECA 1972 by the European Communities (Amendment) Act 2008 ("the 2008 Act") to allow for ratification of the Lisbon Treaty. However, the material provisions of the ECA 1972 set out at paragraphs 47-54 above have remained unchanged since 1972, save for additions to the list of EU Treaties in section 1(2).
+
+
+Section 6 of the 2008 Act provided for parliamentary control of Ministers before they took any action in relation to certain decisions to increase the powers of the EU institutions. It did not provide for any similar parliamentary control in relation to a decision to give notice under Article 50 of the TEU.
+
+
+(b)	  The European Parliamentary Elections Act 2002
+The European Parliamentary Elections Act 2002 ("the 2002 Act") makes provision in relation to elections to the European Parliament. Section 1 provides that there shall be 73 members of the European Parliament elected for the United Kingdom in respect of 12 electoral regions. Section 8 states who is entitled to vote in European parliamentary elections. It is common ground that these provisions will lose their effect if the United Kingdom withdraws from the European Union.
+
+
+At the time the United Kingdom decided to join the European Communities the European Parliament was in place, with members selected from parliamentarians in each Member State (but not yet elected), and there was at that stage a requirement that proposals should be drawn up for elections by direct universal suffrage: see Part 5 of the Treaty of Rome 1957. In 1972 and 1973 it was the right to seek selection to be a member of the Parliament which constituted the relevant category (iii) rights already in place, and there was an expectation that they would be added to by further Community legislation to create an elected Parliament. The European Parliament became a body elected on a general franchise in 1979. The domestic legislation to give effect to this was the European Parliamentary Elections Act 1978, which has been superseded by the 2002 Act.
+
+
+(c)	  The European Union Act 2011
+The European Union Act 2011 ("the EUA 2011") enacted certain restrictions on treaties and decisions relating to the European Union. Section 2 provides that "A treaty which amends or replaces TEU or TFEU is not to be ratified unless", amongst other things, the treaty is approved by Act of Parliament and in certain cases a referendum is held. Section 3 provides that similar conditions would have to be fulfilled in relation to amendment of the TFEU under the simplified revision procedure under Article 48(6) of the TEU. Section 4 sets out cases where a referendum would be required, focusing on cases where there would be an extension of the competences or powers of European Union institutions.
+
+
+(d)	  The European Union Referendum Act 2015
+The 2015 Referendum Act provided, in section 1, for the holding of a referendum on the question, "Should the United Kingdom remain a member of the European Union or leave the European Union?" Section 1(1) simply stated, "A referendum is to be held on whether the United Kingdom should remain a member of the European Union." The remainder of the Act made provision in relation to the holding of that referendum. We set out at paragraph 105 the position of the Secretary of State in relation to this Act.
+
+
+(6)	 The parties' principal submissions
+The arguments advanced to the court by all parties were transcribed and made available on the internet free of charge. It is therefore possible to summarise the arguments briefly.
+
+
+The claimants' primary submissions are as follows:
+
+
+(1)	 The question in this case is to be approached on the basis that it is a fundamental principle of the UK constitution that the Crown's prerogative powers cannot be used by the executive government to diminish or abrogate rights under the law of the United Kingdom (whether conferred by common law or statute), unless Parliament has given authority to the Crown (expressly in or by necessary implication from the terms of an Act of Parliament) to diminish or abrogate such rights.
+(2)	 No words can be found under which Parliament has given any such authority either expressly or by necessary implication in the ECA 1972 or subsequent legislation relating to the European Union.
+(3)	 The giving of a notice under Article 50(2) of the TEU would pre-empt any ability of Parliament to decide on whether statutory rights should be changed. The notice would automatically abrogate in due course category (iii) rights and the rights under the 2002 Act; it would remove the category (i) rights as enacted by Parliament in the ECA 1972; and it would remove from Parliament decisions on the maintenance of category (ii) rights.
+(4)	 Ratification by Parliament of a withdrawal treaty made pursuant to Article 50(2) (if any such treaty was agreed between the United Kingdom and the European Union) would not cure the pre-emption, as the effect of giving the Article 50(2) notice would in effect inevitably remove the real decision from Parliament.
+(5)	 Parliament had not given authority by the 2015 Referendum Act for the Crown to give notice of withdrawal under Article 50.
+The claimants' alternative submission is that, if they are wrong in their primary contention that the Crown is prevented under the principles of the constitutional law of the United Kingdom from giving notice under Article 50 without express authority from Parliament, any power under the Crown's prerogative to do so has been removed by the ECA 1972 or by subsequent legislation in relation to the European Union, in addition, Mr Green QC argued in the further alternative that any relevant power under the Crown's prerogative was removed by the EUA 2011.
+
+
+The	Secretary of State submits as follows:
+
+
+(1)	 Parliament could choose to leave (or not to abrogate) prerogative power in the hands of the Crown, even if its use would result in a change to common law and statutory rights,
+(2)	 It was clear from  ex p. Rees-Mogg  that, unless express words could be found in a statute, Parliament could not be taken to have abrogated the Crown's prerogative powers in relation to the EU Treaties so that notice under Article 50(2) could be given with the consequences that followed in the form of either a withdrawal treaty or automatic departure. Alternatively, applying the guidance in  De Keyser's Royal Hotel  in the context of the EU Treaties, Parliament could not be taken to have abrogated such prerogative power unless by express words in a statute (or	 possibly by necessary implication from a statute).
+(3)	No words could be found in the ECA 1972 or any other statute which abrogated that power expressly or by necessary implication.
+(4)	 In particular, it is notable that neither the 2008 Act nor the EUA 2011 restricted the Crown's prerogative power to give a notice under Article 50(2), even though that provision had come into existence by the time they were enacted. On the contrary, both Acts implicitly recognised that such prerogative power existed as no restriction was placed on the power of the Crown to invoke that right exercisable under the TEU, as amended by the Lisbon Treaty.
+(5)	Nor were there any express words in any United Kingdom legislation that abrogated the Crown's prerogative power to withdraw from the Treaties as distinct from amending them. That was because the intention of Parliament, in particular as appears from the EUA 2011, was directed at restricting the increase in the powers of the European Union and its encroachment on Parliamentary sovereignty, not at restricting the ability to withdraw from the European Union and thereby restoring Parliamentary sovereignty.
+(6)	 As it is likely that any withdrawal treaty would contain a provision requiring ratification, the withdrawal treaty would in any event have to be approved by Parliament by way of the negative resolution procedure in the CRAG 2010 before that occurred; if it contained provisions requiring application in domestic law, primary legislation would also need to be introduced to allow that. This would be consistent with the proper sequencing of the respective functions of the Crown and of Parliament, as had invariably happened in the past: once an EU treaty had been made, domestic law was brought into line by Parliament through legislation and then the treaty was ratified.
+(7)	 Although the 2015 Referendum Act does not itself confer statutory power on the Secretary of State to give notice under Article 50(2), the implication from the fact that the 2015 Referendum Act is silent on the issue whether legislation is required before notice could be given under that Article supported the contention that Parliament accepted the continued existence of the prerogative powers of the Crown to give such notice; it certainly contains no restriction on such prerogative power as may still exist. (7)	 Our decision on the legal question (a)	 The nub of the contention of the Secretary of State Rather than begin with our consideration of the claimants' primary submission, to which we turn at paragraph 95, we will consider first the Secretary of State's submission on the interpretation of the ECA 1972. He maintains that under section 2(1) of the ECA 1972 the content of EU rights is defined by reference to the EU Treaties, This means that Parliament intended there to be a continuing condition for the existence of any EU rights to be given effect in domestic law under section 2(1), in the shape of the continued membership of the European Union on the part of the United Kingdom; and that whether that condition is satisfied or not was intended by Parliament to depend entirely upon the action of the Crown on the plane of international law.
+If the Secretary of State's contention as to the proper meaning of section 2(1) of the ECA 1972 is correct, there is no violation of the principle in  The Case on Proclamations,  summarised in  The Zamora,  as set out at paragraphs 27-29 above. Parliament would then itself have provided that the EU rights in domestic law should be vulnerable to removal by executive action on the plane of international law through the use of the Crown's prerogative powers.
+This would be a function of the principle of Parliamentary sovereignty, as Parliament can produce any effect it likes in law and so in theory can, if it chooses, legislate in such a way that aspects of the application of a statutory regime may be left to be filled in by reference to formal steps taken by the executive government.  Post Office v Estuary Radio Ltd  [1968] QB 740, CA, is an example of this. In that case, on the proper interpretation of the legislation in question in its particular context, the extent of application of the legislative regime was to be determined by reference to the concept of the United Kingdom's territorial waters, as they happened to be defined from time to time by the Crown by making relevant claims regarding their extent in the conduct of international relations under its prerogative powers.
+Under the approach advocated by the Secretary of State, the resolution of the issue would depend upon whether the claimants could point to an intention on the part of Parliament as expressed in the ECA 1972 to remove the Crown's prerogative power to take action to withdraw the United Kingdom from the Community Treaties once they were ratified. If Parliament had done nothing in the ECA 1972 to qualify the Crown's pre-existing prerogative power to conduct international relations, that power would on this approach have continued after the promulgation of that Act.
+However, in our judgment the Secretary of State goes too far in his suggestion that the constitutional principle summarised in  The Zamora  drops out of the picture and that the approach to statutory interpretation in relation to abrogation of the Crown's prerogative powers as set out in  De Keyser's Royal Hotel  leads to the conclusion that under the ECA 1972 the Crown retained prerogative power to take steps to withdraw the United Kingdom from the Community Treaties and now, therefore, has power under the Crown's prerogative to give notice under Article 50.
+(b)	  The approach to the interpretation of the ECA 1972 as a constitutional statute Statutory interpretation, particularly of a constitutional statute which the ECA 1972 is for the reasons given at paragraph 43-44 above, must proceed having regard to background constitutional principles which inform the inferences to be drawn as to what Parliament intended by legislating in the terms it did. This is part of the basic approach to be adopted by a court engaging in the process of statutory interpretation. Where background constitutional principles are strong, there is a presumption that Parliament intended to legislate in conformity with them and not to undermine them. One reads the text of the statute in the light of constitutional principle. In the particular context of the primary legislation which falls for interpretation, can it be inferred that a Parliament aware of such constitutional principle and respectful of it intended nonetheless to produce effects at variance with it?
+There are several examples of this approach to statutory interpretation. There is a strong presumption against Parliament being taken to have intended to give a statute retrospective effect, even if the language used in the statute might appear to create such effect. There is a similar presumption as to the territorial effect of statutes. There is a strong presumption that Parliament does not intend to preclude access to the ordinary courts for determination of disputes: see, for example,  Anisminic Ltd v Foreign Compensation Commission   [1969] 2 AC 147 . Another example, debated at some length at the hearing, is the principle of legality, i.e. the presumption that Parliament does not intend to legislate in a way which would defeat fundamental human rights: see  R v Secretary of State for the Home Department, ex p. Pierson   [1998] AC 539  at 573G, 575B-G (Lord Browne-Wilkinson) and  R v Secretary of State for the Home Department, ex p. Simms   [2000] 2 AC 115 , 131D-G (Lord Hoffmann). All these presumptions can be overridden by Parliament if it so chooses, but the stronger the constitutional principle the stronger the presumption that Parliament did not intend to override it and the stronger the material required, in terms of express language or clear necessary implication, before the inference can properly be drawn that in fact it did so intend. Similarly, the stronger the constitutional principle, the more readily can it be inferred that words used by Parliament were intended to carry a meaning which reflects the principle.
+We emphasise this feature of the case because the Secretary of State's submission, in our view, glossed over an important aspect of this starting point for the interpretation of the ECA 1972 and proceeded to a contention that the onus was on the claimants to point to express language in the statute removing the Crown's prerogative in relation to the conduct of international relations on behalf of the United Kingdom. The Secretary of State's submission left out part of the relevant constitutional background. It was omitted, despite the Secretary of State making recourse to this approach to statutory interpretation a keystone of his own submission that the conduct of international relations is a matter for the Crown in the exercise of its prerogative powers. He made it so in order to argue that express (or at any rate especially clear) language would need to be found in the ECA 1972 before it could be inferred that Parliament intended to remove the Crown's prerogative power to take steps to remove the United Kingdom from the European Communities and the Community Treaties. Despite this, the Secretary of State's submission on section 2(1) of the ECA 1972 gave no value to the usual constitutional principle that, unless Parliament legislates to the contrary, the Crown should not have power to vary the law of the land by the exercise of its prerogative powers.
+In our view, the Secretary of State's submission is flawed at this basic level. That view is reinforced by reference to two constitutional principles.
+(c)	 The principle that the Crown cannot use its prerogative powers to alter domestic law  First, the powerful constitutional principle that the Crown has no power to alter the law of the land by use of its prerogative powers is the product of an especially strong constitutional tradition in the United Kingdom (and the democracies which follow that tradition - see for example the New Zealand decision in  Fitzgerald v Muldoon  [1976] 2 NZLR 615 at 622). It evolved through the long struggle (to which we have referred at paragraph 26) to assert Parliamentary sovereignty and constrain the Crown's prerogative powers. It would be surprising indeed if, in the light of that tradition, Parliament, as the sovereign body under our constitution, intended to leave the continued existence of all the rights it introduced into domestic law by enacting section 2(1) of the ECA 1972 (and, in the case of category (ii) rights, which it passed the ECA 1972 to bring into existence) subject to the choice of the Crown in the exercise of its prerogative powers as to whether to allow the Community Treaties to continue in place or to take the United Kingdom out of them. As Lord Browne-Wilkinson put it in  R v Secretary of State for the Home Department, ex p. Fire Brigades Union   [1995] 2 AC 513  at 552E:
+"It is for Parliament, not the executive, to repeal legislation. The constitutional history of this country is the history of the prerogative powers of the Crown being made subject to the overriding powers of the democratically elected legislature as the sovereign body." In this context, it is also relevant to bear in mind the profound effects which Parliament intended to produce in domestic law by enactment of the ECA 1972, which has led to its identification as a statute of special constitutional significance. The wide and profound extent of the legal changes in domestic law created by the ECA 1972 makes it especially unlikely that Parliament intended to leave their continued existence in the hands of the Crown through the exercise of its prerogative powers. Parliament having taken the major step of switching on the direct effect of EU law in the national legal systems by passing the ECA 1972 as primary legislation, it is not plausible to suppose that it intended that the Crown should be able by its own unilateral action under its prerogative powers to switch it off again.
+Moreover, the status of the ECA 1972 as a constitutional statute is such that Parliament is taken to have made it exempt from the operation of the usual doctrine of implied repeal by enactment of later inconsistent legislation: see  Thoburn v Sunderland City Council,  at [60]-[64], and section 2(4) of the ECA 1972. It can only be repealed in any respect if Parliament makes it especially clear in the later repealing legislation that this is what it wishes to do. Since in enacting the ECA 1972 as a statute of major constitutional importance Parliament has indicated that it should be exempt from casual implied repeal by Parliament itself, still less can it be thought to be likely that Parliament nonetheless intended that its legal effects could be removed by the Crown through the use of its prerogative powers.
+(d)	 The Crown's prerogative power operates only on the international plane The second principle is the well settled limitation on the constitutional understanding that the conduct of international relations is a matter for the Crown in the exercise of its prerogative powers. The Secretary of State has overstated that constitutional understanding as his submission overlooks the inter-relationship between that principle and the constitutional principle summarised in  The Zamora,  which was highlighted by Lord Oliver in  J.H. Rayner  in the passage quoted at paragraph 33 above. It is precisely because the exercise of the Crown's prerogative powers in the conduct of international relations has no effect in domestic law that the courts accept that this is a field of action left to the Crown and recognise the strength of the understanding that it is not readily to be inferred that Parliament intended to interfere with it. But the justification for a presumption of non-interference with the Crown's prerogative in the conduct of international affairs is substantially undermined in a case such as this, where the Secretary of State is maintaining that he can through the exercise of the Crown's prerogative bring about major changes in domestic law.
+For this reason, it is our view that the decision in  ex p. Rees-Mogg,  on which the Secretary of State sought to place considerable weight, does not provide guidance in the present case. In that case a strong Divisional Court addressed the question whether section 2(1) and (2) of the ECA 1972 had by implication abrogated the prerogative power of the Crown to amend or add to the EEC Treaty, so as to disable the Crown from ratifying the Protocol on Social Policy as an addition to that Treaty:  [1994] QB 552  at 567A-568E. The court answered that question in the negative, drawing a contrast with section 6 of the European Parliamentary Elections Act 1978 which, as amended by the European Communities (Amendment) Act 1993, stated that no treaty which provided for any increase in the powers of the European Parliament should be ratified unless it had been approved by an Act of Parliament. At pp. 567G-568E the court said this:
+"'We find ourselves unable to accept this far-reaching argument [for the claimant]. When Parliament wishes to fetter the Crown's treaty-making power in relation to Community law, it does so in express terms, such as one finds in section 6 of the Act of 1978. Indeed, as was pointed out, if the Crown's treaty-making power were impliedly excluded by section 2(1) of the Act of 1972, section 6 of the Act of 1978 would not have been necessary. There is in any event insufficient ground to hold that Parliament has by implication curtailed or fettered the Crown's prerogative to alter or add to the E.E.C. Treaty. Would the ratification of the Protocol on Social Policy alter the content of domestic law? The Protocol itself makes clear that it was not intended to apply to the United Kingdom. Nor is the United Kingdom party to the agreement which is annexed to the Protocol. The Protocol is not one of the treaties (which for this purpose includes protocols: see section 1(4)) included within the definition of "the Treaties" in section 1(2) of the Act of 1972. For it is specifically excluded by section 1(1) of the Act of 1993.  It follows that the Protocol is not one of the Treaties covered under section 2(1)  of  the Act of 1972  by  which alone Community treaties have force in domestic  law. It does not become one of the treaties covered by section 2(1) merely because, by the Union Treaty, it is annexed to the E.E.C. Treaty: see section 1(3) of the Act of 1972." Mr. Pannick [counsel for the claimant] argues that under paragraph 1 of the Protocol, the United Kingdom has agreed to authorise the other eleven member states to have recourse to the Community institutions for the purpose of giving effect to the Agreement. But this is an obligation on the international plane, not the domestic plane. He further argues that the Protocol may have indirect effect on our domestic law, because some of the matters covered by the Agreement are covered elsewhere in Community law. Thus article 6 of the Agreement, which enshrines the principle of equal pay for equal work, follows the language of article 119 of the E.E.C. Treaty. Accordingly a decision of the European Court of Justice on the meaning of article 6 might affect, so it is said, the application of article 119 so as to influence the development of United Kingdom domestic law. But in our view, this possible indirect effect is far too slender a basis on which to support Mr. Pannick's argument.   We conclude that the Government would not, by  ratifying  the Protocol, be altering or affecting the content of domestic law without parliamentary approval . For the above reasons we would reject Mr. Pannick's ... argument.'' (emphasis added)  In our judgment, the nub of the court's reasoning, as is apparent from the passages which we have highlighted, is that ratification of the Protocol on Social Policy by the Crown would not alter or affect the content of domestic law by virtue of section 2(1) of the ECA 1972. Accordingly, there was no good reason to infer that Parliament had intended by enactment of that Act to affect the usual position, properly applicable in relation to that Protocol, that the Crown has untrammelled prerogative powers to make treaties in the conduct of the United Kingdom's international relations. Contrary to the Secretary of State's submission, the judgment cannot properly be read as saying, let alone holding, that express words would be required to fetter the Crown's treaty-making power in relation to EU law, since the court looked to see if there was sufficient ground to hold that Parliament had by implication curtailed or fettered the Crown's prerogative in that regard. That question arose in the context of the making of a Protocol to extend, not remove, EU rights. It is clear from the judgment that it was the fact that the ratification of the Protocol would not alter domestic law which led to the court's conclusion. The court did not have to consider an argument as to whether the Crown's prerogative powers had been unaffected by the ECA 1972. In the very different context of the present case, the question is whether the Crown has power under its prerogative to  withdraw  from the relevant EU Treaties where such withdrawal will, on the Secretary of State's argument, have a major effect on the content of domestic law. It is clear that the court in  ex p. Rees Mogg  did not touch on that question.
+(e)	 Our conclusion as to Parliament's intention  Interpreting the ECA 1972 in the light of the constitutional background referred to above, we consider that it is clear that Parliament intended to legislate by that Act so as to introduce EU law into domestic law (and to create the category (ii) rights) in such a way that this could not be undone by exercise of Crown prerogative power. With the enactment of the ECA 1972, the Crown has no prerogative power to effect a withdrawal from the Community Treaties on whose continued existence the EU law rights introduced into domestic law depend (rights in categories (i) and (iii)) and on whose continued existence the wider rights of British citizens in category (ii) also depend. The Crown therefore has no prerogative power to effect a withdrawal from the relevant Treaties by giving notice under Article 50 of the TEU.
+That this was the intention of Parliament and is the effect of the ECA 1972 appears from the following provisions of that Act, read in the light of the relevant constitutional background:
+(1)	 The long title indicates that Parliament intended that the ECA 1972 was to give effect to the enlargement of the European Communities by the addition of the United Kingdom as a Member State. It is inconsistent with that major constitutional purpose of the Act that the Crown should have power to undo that enlargement by exercise of its prerogative powers. (2)	 The heading of section 2 indicates that it is to provide for the implementation of the relevant "Treaties". The "Treaties" referred to are defined in section 1(2) and the most important of them are expressly listed there. It is inconsistent with that specific declared statutory objective that the Crown should have power under its prerogative to remove the United Kingdom from those treaties so that they cannot be implemented. (3)	 In our view point (2) refutes the Secretary of State's own textual argument on section 2(1), to the effect that where it refers to all rights, powers, liabilities etc "from time to time created or arising by or under the Treaties" and to all remedies and procedures "from time to time provided for by or under the Treaties", it imports an implied condition that the United Kingdom remains a member of the European Union and is bound by "the Treaties" and the Crown has not withdrawn from "the Treaties" through the exercise of its prerogative power. It is on the basis that there is such an implied condition that the Secretary of State seeks to say that Parliament has chosen to allow the Crown's prerogative powers to withdraw the United Kingdom from the relevant EU Treaties to continue in being. But such a condition is contrary to the express wording of section 2. There is nothing in the constitutional background to warrant reading the words in that way. On the contrary, the constitutional background strongly reinforces the claimants' own suggested interpretation of the provision. Read according to their natural meaning and in their proper context, the words quoted above refer only to EU law rights, remedies and procedures etc that exist in the Treaties themselves or by virtue of EU legislation passed from time to time. (4)	 This interpretation of section 2(1) shows that Parliament intended to introduce into domestic law EU rights which were in place and would continue to be in place in relation to the United Kingdom under the relevant Treaties. The fact that Parliament uses the label "enforceable EU right" ("enforceable Community right" in the version of section 2(1) as originally enacted) reinforces the view that this is what Parliament meant to achieve. This reading of the provision is again inconsistent with the existence of any power under the Crown's prerogative to undo those rights by effecting the withdrawal of the United Kingdom from the relevant Treaties. (5)	 Section 2(2) also indicates that Parliament believed and intended that it was legislating to give effect to EU law in domestic law and that the effect of its legislation should not be capable of being undone by the Crown through the exercise of its prerogative powers. Section 2(2) confers a power to make subordinate legislation to implement "any EU obligation" of the United Kingdom and to enable "any rights enjoyed or to be enjoyed by the United Kingdom under or by virtue of the Treaties" to be exercised. Read in context and in light of the relevant constitutional background, these words refer only to EU obligations and EU rights which arise from time to time by virtue of the "Treaties" and do not import by implication any condition that such obligations and rights are only to be treated as such for so long as the Crown has not exercised its prerogative powers to withdraw the United Kingdom from the Treaties. (6)	 Further, section 2(2) states in sub-paragraph (b) that this statutory power may be exercised to make subordinate legislation for ''the purpose of dealing with matters arising out of or related to any such obligation or rights". On the Secretary of State's argument, this would appear to include making subordinate legislation to deal with the removal of any such EU obligation or EU rights as a result of withdrawal from the EU by virtue of exercise of the Crown's prerogative powers; but the subsection also says that the person exercising the power to make subordinate legislation "may have regard to the objects of the EU" (or "the objects of the Communities", as the subsection stated as originally enacted). This would make little sense if Parliament had intended that the ECA 1972 should be interpreted as the Secretary of State contends. (7)	 In our view, section 3(1), relating to the ability to seek references from the CJEU under what is now Article 267 TFEU and the obligation of national courts to determine questions as to the validity, meaning or effect of any EU instrument in accordance with the jurisprudence of the CJEU, is most naturally to be read in context as presupposing the continued applicability of EU law and the EU Treaties in relation to the United Kingdom unless and until Parliament legislates for withdrawal. As with section 2(1) and (2), Parliament cannot be taken to have legislated potentially in vain by this provision, as would be the case if the Crown could itself choose to withdraw the United Kingdom from the European Union without the need for further legislation and thereby strip it of any effect whatever. (8)	 Finally, we have already drawn attention to the significance of the fact that the principal EU Treaties which are given effect in domestic law are specifically listed in section 1(2). Section 1(3) provides for Parliamentary control before any ancillary treaty can be made and regarded as a "Treaty" for the purposes of the Act, and hence given effect in domestic law. The Crown cannot simply make and ratify ancillary treaties in the exercise of its prerogative powers and thereby create legal effects in domestic law. It is not compatible with this degree of Parliamentary control - listing the main "Treaties" in the ECA 1972 itself and providing for a high degree of Parliamentary control by way of approval by resolution of both Houses before an ancillary treaty qualifies as a "Treaty" for the purposes of the Act - that Parliament at the same time intended that the Crown should be able to change domestic law by the simple means of using its prerogative power to withdraw the United Kingdom from the Treaties. Moreover, the fact that Parliament's approval is required to give even an ancillary treaty made by exercise of the Crown's prerogative effect in domestic law is strongly indicative of a converse intention that the Crown should not be able, by exercise of its prerogative powers, to make far more profound changes in domestic law by unmaking all the EU rights set out in or arising by virtue of the principal EU Treaties. In our judgment, the clear and necessary implication from these provisions taken separately and cumulatively is that Parliament intended EU rights to have effect in domestic law and that this effect should not be capable of being undone or overridden by action taken by the Crown in exercise of its prerogative powers. We therefore reject the Secretary of State's submission that Parliament did not intend to abrogate the Crown's prerogative powers and had not done so through the ECA 1972. Parliament also intended that British citizens should have the category (ii) rights and that, likewise, they should not be capable of being undone by the Crown by exercise of its prerogative powers. We arrive at this conclusion and reject the Secretary of State's submission by interpreting the ECA 1972 as a statute which introduces EU rights into domestic law and must be taken to cover the field. The ECA 1972 cannot be regarded as silent on the question of what happens to EU rights in domestic law if the Crown seeks to take action on the international plane to undo them. Either the Act reserves power to the Crown to do that, including by giving notice under Article 50, or it does not. In our view, it clearly does not.
+(f)	  The claimants' principal argument We have reached this conclusion by examining and rejecting the submission advanced by the Secretary of State. We now turn, as we indicated at paragraph 77 above, to the claimants' principal contention that as a matter of general constitutional principle derived from the sovereignty of Parliament and the case law beginning with  The Case of" Proclamations,  to which we have referred at paragraphs 27-29 above, that the contention of the Secretary of State was misconceived. It was their submission that the Crown could not change domestic law and nullify rights under the law unless Parliament had conferred upon the Crown authority to do so either expressly or by necessary implication by an Act of Parliament. The ECA 1972, in their submission, contained no such authority.
+If the issue is approached in this way on the basis of the claimants' primary submission, it follows from the detailed analysis that we have set out that the ECA 1972 confers no such authority on the Crown, whether expressly or by necessary implication. Absent such authority from the ECA 1972 or the other statutes, the Crown cannot through the exercise of its prerogative powers alter the domestic law of the United Kingdom and modify rights acquired in domestic law under the ECA 1972 or the other legal effects of that Act. We agree with the claimants that, on this further basis, the Crown cannot give notice under Article 50(2).
+(g)	  The decisions in De Keyser, Fire Brigades Union and Laker Airways The interpretation of the ECA 1972 we have set out and the conclusions we have reached are fully in line with the guidance given in  De Keyser's Royal Hotel.  That case establishes that Crown prerogative powers may be impliedly abrogated by primary legislation:  [1920] AC 508 , 526 (Lord Dunedin), 539 (Lord Atkinson), 554 (Lord Moulton), 561-562 (Lord Sumner) and 575-576 (Lord Parmoor). It also provides an example of one kind of case where that will be found to have occurred, i.e. where a matter formerly dealt with under the Crown's prerogative powers has been directly regulated by statute. In that case, the taking of property by the Crown during wartime had previously been permitted in exercise of the Crown's prerogative powers without any obligation to pay compensation, but the legislation in issue required the payment of compensation in relation to such a taking. The House of Lords held that the Crown's prerogative power to take without paying compensation had thereby been impliedly removed by the legislation. But the House of Lords did not decide that this is the only kind of situation in which an implied abrogation may be found. The  Fire Brigades Union  case, discussed in the next paragraph, shows that it is not; see also the speech of Lord Parmoor at  [1920] AC 508 , 576. Whether there is an implied abrogation is a matter of interpretation of the particular statute in each case, in its specific context and having regard to the subject matter it is dealing with.
+In fact, the way in which sections 2(1), 2(2) and 3(1) of the ECA 1972 would be stripped of effect by exercise of the Crown's prerogative powers if the Secretary of State's interpretation of that Act were correct provides an even stronger illustration than that which led the House of Lords in  R v Secretary of State for the Home Department, ex p. Fire Brigades Union   [1995] 2 AC 513  to hold that the Crown's prerogative had been impliedly abrogated by the statute in issue there. That case concerned the Criminal Injuries Compensation Scheme, which had originally been introduced under the Crown's prerogative powers. Parliament enacted legislation to put such a scheme on a statutory footing, applying certain rates of compensation as set out in the statute. The statutory scheme was not brought immediately into effect, but according to the statute the Secretary of State had to keep under review whether he should make an order to bring it into effect. Instead, however, he decided to exercise the Crown's prerogative to make changes to the compensation scheme introduced through the use of the Crown's prerogative powers by specifying tariff compensation rates which were lower than those set out in the statutory provisions. The House of Lords held that this was unlawful, as the Crown's prerogative power to change the scheme had been impliedly abrogated by the statute to the extent that he was not entitled to exercise it, as he had sought to do, in a manner which in practice meant he debarred himself from exercising the statutory power (to bring the statutory scheme into effect) for the purposes and on the basis which Parliament intended: see pp. 552D-554G (Lord Browne-Wilkinson), 568G-573C (Lord Lloyd of Berwick) and 575B-578F (Lord Nicholls of Birkenhead). The new tariff scheme was not introduced as a temporary stopgap, but as a long-term replacement for the existing scheme and its statutory embodiment. As Lord Nicholls said at p. 576A-B:
+"The executive cannot exercise the prerogative power in a way which would derogate from the due fulfilment of a statutory duty. To that extent, the exercise of the prerogative power is curtailed so long as the statutory duty continues to exist."  The effect of the decision in the  Fire Brigades Union  case was that Parliament could not be taken to have legislated in vain. Even though the statutory compensation scheme had not yet been brought into force, the Secretary of State was under a duty to consider bringing it into force at some point. He could not use the Crown's prerogative powers to create a new prerogative scheme which was incompatible with the statutory scheme and was intended to stand in place of it, even though the statutory scheme was not yet in effect. In the present case, on the other hand, sections 2(1), 2(2) and 3(1) of the ECA 1972 set out legal duties already in force which require effect to be given to EU law. In the present case, contrary to the submission of the Secretary of State, the inference that Parliament intended to abrogate the Crown's prerogative powers that would allow those provisions to be stripped of practical effect is even stronger.
+It is finally necessary to refer to  Laker Airways Ltd v Department of Trade   [1977] QB 643  (CA), on which the claimants relied. In that case the Court of Appeal found that the Crown's prerogative powers in relation to the making of treaties had been impliedly abrogated by a statutory scheme for the licensing of air carriers. The claimant carrier had been licensed under the statute to provide an airline service between London and New York, but the Crown proposed to cancel the designation of the claimant as an approved carrier under the relevant treaty arrangement with the USA, which designation was necessary to allow it to operate its service. The court held that this would be unlawful. As Lord Denning MR said, "such a procedure was never contemplated by the statute" (p. 707B). Roskill LJ applied the guidance in  De Keyser's Royal Hotel  and held that Parliament should be taken to have intended to fetter the prerogative of the Crown in the relevant respect by its legislation (pp. 719B- 722H). Lawton LJ likewise held that the legislation regulated all aspects of the revocation of licences and by necessary implication should be construed so as to prevent the Secretary of State from achieving that effect through the exercise of the Crown's prerogative powers (pp. 727B-728D). The analysis of all three judges depended on what Parliament had intended in the primary legislation and was in line with the approach in  De Keyser's Royal Hotel.      Lawton LJ discussed the Secretary of State's submission that there was nothing in the legislation which curbed the Crown's prerogative powers in the sphere of international relations, and that indeed the legislation recognised that the Crown had such powers. Lawton LJ said:
+"'This is so: but the Secretary of State cannot use the Crown's powers in this sphere in such a way as to take away the rights of citizens: see  Walker v Baird   [1892] AC 491 ." He held that this was in reality what the Secretary of State was doing (p. 728A). The claimants argued that this short passage supported their primary submission. The context in which Lawton LJ said this was in his discussion regarding the proper interpretation of the primary legislation in issue. It therefore is to be viewed as providing additional support for our analysis rejecting the Secretary of State's submission, since Lawton LJ clearly regarded reference to background constitutional principles as relevant to his interpretation of the legislation. (h)	 The Act of Union 1707, the devolution statutes and other statutes  In the light of the conclusion we have reached by consideration of the terms of the ECA 1972 and basic constitutional principles, we do not find it necessary to address the supplementary submissions made by Miss Mountfield QC on the effect of the Act of Union of 1707. Nor is it necessary or appropriate to consider various alternative arguments put forward by the claimants, interested parties and other interveners. They relied upon the 2002 Act, but that came well after the enactment of the material provisions in the ECA 1972 and cannot affect their meaning; and in so far as the 2002 Act was relied upon as further legislation abrogating prerogative powers if the submissions based on the ECA 1972 did not succeed, the question does not arise. The claimants also relied upon the EUA 2011 and the various devolution Acts, but the same points apply.
+In parallel with these proceedings in England and Wales there have been proceedings in the High Court in Northern Ireland concerned with the distinct question whether the Northern Ireland Act 1998 abrogates the Crown's prerogative powers in relation to the giving of notice under Article 50 TEU. We were informed that the issues being argued in the case before us were not the subject of argument and would not be decided in the Northern Ireland proceedings.
+When the draft of our judgment was in the course of preparation Maguire J handed down his judgment in the Northern Ireland proceedings:  Re McCord's Application  [2016] NIQB 85 . We do not say anything about the proper interpretation or effect of the Northern Ireland Act 1998; the parties before us deliberately withdrew from their arguments submissions based on that Act and the "Good Friday Agreement" on the basis that those issues were for the decision of the High Court in Northern Ireland. However, in relation to certain observations made in the judgment which relate to the extent of the Crown's prerogative powers, the interpretation of the ECA 1972 and the effect of giving notice under Article 50, we infer that the observations reflected the way the case appears to have been argued based on the premise that such issues were primarily for determination by us. We would simply say:
+(1)	 At [67] the judge notes that it is implicit in the argument of the applicants in the case before him that, were it not for the displacement of the prerogative by the Northern Ireland Act 1998, the use of prerogative power to give notice under Article 50 would be unobjectionable and affirms that position as the appropriate starting point for his analysis. But it is not the appropriate starting point, because a prior question is the effect of the ECA 1972 on domestic law and the Crown's prerogative powers. (2)	 At [70] the judge refers to  The Case of Proclamations,  but only for the principle that ''the King hath no prerogative, but that which the law of the land allows him". The judgment does not however address the principle that the Crown cannot through its prerogative power change any part of the law of the land; nor is reference made to the Bill of Rights: see paragraphs 28-29 above. Further, counsel for the applicants in the Northern Ireland case argued that there was no need to establish an intention on the part of the legislature to limit the prerogative (see [82]), which was very different from the submission presented to us. We therefore do not find it surprising that the judge was able to reject the overly broad submission made to him. It follows that when the judge gave consideration to the case law, he did so without having the proper starting point identified. (3)	 Finally, at [104]-[108] it is evident that the judge did not have the benefit of the careful analysis of the effect of Article 50 addressed to us. It is therefore again unsurprising that his conclusion at [105] that notification under Article 50 will only ''probably" ultimately lead to changes in United Kingdom law was arrived at without knowledge it had been accepted before us on all sides that it necessarily will have that effect. The same must be said of his observation that at the point when the application of EU law in the United Kingdom changes, "the process necessarily will be one controlled by parliamentary legislation, as this is the mechanism for changing the law in the United Kingdom." Before us the Secretary of State's positive case was that, if the Crown is entitled to give a notice under Article 50, then when it takes effect to withdraw the United Kingdom front the European Union the effect of existing EU law under the relevant EU Treaties will cease and sections 2(1), 2(2) and 3(1) of the ECA 1972 will be stripped of their effect in domestic law without any requirement of further primary legislation. (8)	 The  2015 Referendum Act  The Secretary of State's case regarding his ability to give notice under Article 50 was based squarely on the Crown's prerogative power. His counsel made it clear that he does not contend that the 2015 Referendum Act supplied a statutory power for the Crown to give notice under Article 50. He is right not to do so. Any argument to that effect would have been untenable as a matter of statutory interpretation of the 2015 Referendum Act.
+That Act falls to be interpreted in light of the basic constitutional principles of Parliamentary sovereignty and representative parliamentary democracy which apply in the United Kingdom, which lead to the conclusion that a referendum on any topic can only be advisory for the lawmakers in Parliament unless very dear language to the contrary is used in the referendum legislation in question. No such language is used in the 2015 Referendum Act.
+Further, the 2015 Referendum Act was passed against a background including a clear briefing paper to parliamentarians explaining that the referendum would have advisory effect only. Moreover, Parliament must have appreciated that the referendum was intended only to be advisory as the result of a vote in the referendum in favour of leaving the European Union would inevitably leave for future decision many important questions relating to the legal implementation of withdrawal from the European Union.
+We emphasise that the Secretary' of State's position on this part of the argument and the observations in the preceding paragraphs relate to a pure legal point about the effect  in law  of the referendum. This court does not question the importance of the referendum as a political event, the significance of which will have to be assessed and taken into account elsewhere.
+(9)	  Conclusion and form of declaratory relief As we have set out at paragraph 5, it is agreed on all sides that the legal question we have examined and answered, as to whether the Crown can use its prerogative powers to give notice under Article 50, is justiciable. Since it is a justiciable issue, the court must plainly be entitled to grant appropriate declaratory relief. The Secretary of State accepts this as well. It is appropriate for the precise form of the declaratory relief to be granted to be addressed once the parties have seen this judgment.
+This case came on before us as a "rolled up" hearing, for the questions of permission to seek judicial review and, if granted, the substantive merits of the claim to be considered at one hearing. We formally grant permission.
+For the reasons we have set out, we hold that the Secretary of State does not have power under the Crown's prerogative to give notice pursuant to Article 50 of the TEU for the United Kingdom to withdraw from the European Union.
+
+
+
+]]></case_text></basic_case_document>

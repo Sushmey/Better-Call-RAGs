@@ -1,0 +1,1082 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<basic_case_document xmlns="https://github.com/cambridge-ai-and-law-project/CambridgeLawCorpus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/cambridge-ai-and-law-project/CambridgeLawCorpus https://github.com/cambridge-ai-and-law-project/CambridgeLawCorpus/schemas/case_schema.xsd">
+  <CLC-ID>164656d1-3d55-423d-90fd-53947bab09d7</CLC-ID>
+  <document_source>html</document_source>
+  <court>United Kingdom Employment Appeal Tribunal</court>
+  <lower_court/>
+  <last_date_hearing_delivery>2017-07-31</last_date_hearing_delivery>
+  <neutral_citations>
+    <case_neutral_citation>[2017] IRLR 870</case_neutral_citation>
+    <case_neutral_citation>[2018] ICR 31</case_neutral_citation>
+    <case_neutral_citation>[2017] UKEAT 0334_16_3107</case_neutral_citation>
+  </neutral_citations>
+  <law_report_references>
+    <case_law_report_reference/>
+  </law_report_references>
+  <case_nr_of_year/>
+  <judges>
+    <judge/>
+  </judges>
+  <claimants>
+    <claimant/>
+  </claimants>
+  <defendants>
+    <defendant/>
+  </defendants>
+  <solicitors>
+    <solicitor/>
+  </solicitors>
+  <barristers>
+    <barrister/>
+  </barristers>
+  <parties>
+    <case_name_party/>
+  </parties>
+  <case_text><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United Kingdom Employment Appeal Tribunal
+
+
+
+
+
+
+
+United Kingdom Employment Appeal Tribunal  >>
+
+Dudley Metropolitan Borough Council v Willetts & Ors  (Working Time Regulations)  [2017] UKEAT 0334_16_3107 (31 July 2017)
+[2017] IRLR 870,
+
+[2018] ICR 31,
+
+[2017] UKEAT 0334_16_3107
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appeal No.  UKEAT/0334/16/JOJ
+
+
+EMPLOYMENT APPEAL TRIBUNAL
+FLEETBANK HOUSE, 2-6 SALISBURY SQUARE, LONDON
+EC4Y 8AE
+
+
+At
+the Tribunal
+On
+11 July 2017
+Judgment
+Handed down
+on
+31 July 2017
+
+
+Before
+THE HONOURABLE MRS JUSTICE SIMLER DBE
+PRESIDENT
+(SITTING ALONE)
+
+
+
+
+
+
+
+
+
+
+DUDLEY  METROPOLITAN BOROUGH COUNCIL  APPELLANT
+
+
+
+
+
+MR
+G WILLETTS AND OTHERS  RESPONDENT S
+
+
+
+
+
+Transcript of Proceedings
+
+JUDGMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPEARANCES
+
+
+
+
+
+
+
+
+For the Appellant
+
+
+MR
+SEAN JONES QC
+(One of Her Majesty’s
+Counsel)
+Instructed by
+Harrison Clark
+Rickerbys
+Thorpe House
+29 Broad Street
+Hereford
+HR4 9AR
+
+
+
+
+For the Respondent s
+
+
+MR MICHAEL FORD QC
+(One of Her Majesty’s
+Counsel)
+and
+MR MARK WHITCOMBE
+(Of  Counsel)
+Instructed by
+OH Parsons LLP
+Sovereign House
+212-214 Shaftsbury
+Avenue
+London  WC2H 8PR
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+WORKING TIME REGULATIONS – Holiday Pay
+
+
+1.  Payment for voluntary
+overtime that is normally worked is within the scope of Article 7 and therefore
+within the concept of ‘normal remuneration’ for the purposes of calculating
+Regulation 13 holiday pay.
+
+2.  It was open to the
+Employment Tribunal in this case to conclude that the payments in issue were
+part of normal remuneration for the Claimants, and no error of law was made
+out.
+
+3.  The appeal was accordingly
+dismissed.
+
+
+
+
+
+
+THE HONOURABLE MRS JUSTICE SIMLER DBE   (PRESIDENT)
+
+Introduction
+1.
+This appeal raises an important issue affecting the level of holiday pay
+for workers across the UK: namely, whether payments received in respect of entirely
+voluntary overtime should be treated as forming part of a worker’s “normal
+remuneration” for the purpose of calculating Regulation 13 holiday pay.
+
+2.
+The Employment Tribunal (Employment Judge Warren) decided that they
+should, acknowledging in doing so that it was sailing into “uncharted waters”.
+Dudley Metropolitan Borough Council who are the Appellants (but are referred to
+as the Respondents for ease of reference) challenge that conclusion, submitting
+that the decisions of the CJEU in two important cases,  British Airways Plc
+v. Williams and Others  C-155/10  [2012] ICR 847  and  Lock v. British Gas
+Trading Ltd  C-539/12  [2014] ICR 813  make clear that such payments should
+not count as “normal remuneration” because they lack the necessary intrinsic link
+to the performance of tasks required under the contract of employment.
+
+3.
+The appeal is resisted.  The Claimants, who are lead Claimants for a
+group of 56 employees in the Respondent’s Directorate of Place responsible for
+the repair and improvement of council-owned housing stock, contend on the
+principal issue, in summary that:
+(a)  the exclusion of payments
+for “voluntary” work which is normally undertaken is inconsistent with the
+overriding principal of EU case-law that normal remuneration must be maintained
+so that pay in respect of annual leave “corresponds to” remuneration while
+working. To exclude these payments results in financial disadvantage and deters
+(or might deter) workers from taking annual leave;
+(b)  in any event, there is, if
+necessary, a link here between the payments and the performance of duties under
+the contracts because, when working, these Claimants were required to work and
+perform tasks required by their contracts.
+
+The factual background and the Employment Tribunal’s decision
+4.
+The Claimants are employed in a number of different roles as electricians,
+plumbers, roofers, storemen, operations officers and “Quick Response Operatives”
+(who carry out general repairs).  They each have set contractual hours (for almost
+all 37 hours per week) which represent their normal working hours.  Many have a
+contractual right to 2-4 hours’ overtime.  Payment for this is not in dispute.
+
+5.
+In addition, they volunteer to perform additional duties which their
+contracts of employment do not require them to carry out.  There is no dispute
+in that regard that the on-call and additional overtime work is entirely voluntary
+in the sense that they (the employees) can “drop on and off the rotas to suit
+themselves whether day by day, week by week, month by month or permanently”
+(paragraph 42 of the judgment).  As the Employment Tribunal held, this
+additional work was “almost entirely at the whim of the employee, with no right
+to enforce work on the part of the employer”.
+
+6.
+The following elements of pay for the additional voluntary hours worked are
+in dispute in this case:
+(i)  Out-of-hours standby pay;
+(ii)  Call out allowance;
+(iii)  Voluntary overtime; and
+(iv)  Mileage or Travel Allowance
+linked to the above.
+
+7.
+The Employment Judge referred to the CJEU’s judgment in  Williams ,
+concluding that it required her to take into account anything “required of the
+claimant under his contract of employment which is intrinsically linked to the
+performance of the required tasks”, but to leave out of account “occasional or
+ancillary costs”.  She referred to the Opinion of the Advocate General (also in
+Williams ) that employees should suffer no disadvantage in taking leave
+and must receive normal or average remuneration so as not to suffer a financial
+disadvantage.  She concluded that regardless of the nature of the work, the
+test is what normal pay is, having observed that loss of “pay” includes
+“overtime”.  She applied that test to the facts of the case and dealt with each
+element as follows:
+(i)  At paragraph 47:
+“ Out of hours
+standby - has been paid to each of these claimants over a period of years, at a
+rate of 1 week in 4 or 1 week in 5, with some variation when they swap on the
+rota.  This may be a case therefore for an average payment to be calculated
+individually.  I am satisfied though that although the work is entirely
+voluntary it fits within the definition of normal pay, and to include it is
+remuneration at times of annual leave is entirely within the requirements set
+out by the CJEU and the Working Time Directive so as not to deter a worker from
+taking leave.  To fail to pay it may deter a worker, who receives it
+consistently and regularly, from taking leave ”
+(ii)  At paragraph 48:
+“Call out
+allowances – it follows that if a worker is called out, he is being reimbursed
+for the inconvenience of undertaking out of hours work.  Whilst this is a
+voluntary rota, once on it he is, at the time, required to attend the call out
+and this is intrinsically linked to the work required of him.  For example, he
+is called out because he is a plumber in his day job, with the council.  The
+payment reflects the antisocial nature of the work.  He is on the rota because
+the respondent allows him to volunteer, an opportunity not available to every
+employee.  This arises out of his employment and the remuneration he receives
+is ‘normal’.    Normal pay is what is normally
+received (per Mr. Justice Langstaff –  Bear   Scotland ”
+(iii)  At paragraphs 50-54:
+“Additional voluntary overtime
+- Some of the employees undertake regular overtime – such that it will fit
+within the definition of ‘normal pay’, others do not.  I apply the Advocate
+General’s definition, which is adopted by the CJEU in  Williams.
+51. Mr Woolvin – works regular
+overtime which borders on the non-guaranteed as it is expected of him under his
+job description.  I consider such to fall within normal pay.  This is not
+unusual or rare, but regular”
+52. Mr Pugh – is subject to voluntary
+overtime provisions, but he advised the Tribunal that such overtime is very
+rare, and as such this cannot be said to be part of his normal pay.
+53. Mr Robertson and Mr Willetts are
+unaffected by this type of voluntary overtime.
+54. Mr Cree works regular Saturdays
+and is paid overtime.  He sees it as an extension to his working week and he is
+normally paid for it.  It falls within normal pay”.
+(iv)  At paragraph 49:
+“ Travel allowance   There is no
+doubt that as this is paid at a rate higher than that recognised by the Inland
+Revenue to be purely to recompense the cost of travel, there is an element of a
+benefit in kind.  It is calculated on the mileage undertaken.  There is no
+suggestion that it is designed to pay for the employee’s time, which is
+reimbursed separately.  Part of this is clearly the equivalent of the train
+ticket, the taxed balance is not.  I conclude that such part of the allowance
+as is the subject of tax as a benefit in kind, is part of the claimant’s
+‘normal’ pay in accordance with  Williams .  It is not designed to
+recompense for expenditure, and it is subject to tax.  It is always payable if
+mileage is undertaken in a private vehicle”
+
+The legislative framework
+8.
+The Working Time Regulations 1998 (“the WTR”) were made under s.2(2) of
+the European Communities Act 1972 to implement in domestic law the Working Time
+Directive, now 2003/88/EC, originally 93/104/EC (“the WTD”).  Regulation 13
+gives every worker an entitlement to four weeks’ annual leave, and together
+with Regulation 13A, provides so far as relevant:
+“13  Entitlement to annual leave
+(1)  Subject to paragraph
+(5), a worker is entitled to four weeks’ annual leave in each leave year.
+(2)  …
+13A  Entitlement to additional annual leave
+(1)  Subject to Regulation
+26A and paragraphs (3) and (5), a worker is entitled in each leave year to a
+period of additional leave determined in accordance with paragraph (2).
+(2)  The period of
+additional leave to which a worker is entitled under paragraph (1) is –
+(a)  …
+(e)  in
+any leave year beginning on or after 1 April 2009, 1.6 weeks.
+(3)  The aggregate
+entitlement provided for in paragraph (2) and Regulation 12(1) is subject to a
+maximum of 28 days.”
+
+9.
+There is a distinction between the right to annual leave created by
+Regulation 13 and the right to additional leave created by Regulation 13A.  The
+former implements a right found in the WTD whereas the latter does not and is a
+purely domestic measure.  The significance of the distinction is that any
+entitlement to increased holiday pay premised on rights derived from EU law
+applies only to Regulation 13 leave.  This appeal is concerned only with
+payments of holiday pay relating to Regulation 13 holiday entitlement.
+
+10.         The
+right to annual leave in the WTR is discrete from the right to be paid in
+respect of such leave.  The right to payment is created by Regulation 16(1)
+which provides:
+“A worker is entitled to be paid in
+respect of annual leave to which he is entitled under Regulation 12 [and
+Regulation 13A]. at a rate of a week’s pay in respect of each week of leave”
+Regulation 16(2) specifies a method for calculating the rate of a
+“week’s pay” by providing that ss. 221 to 224 of the Employment Rights Act 1996
+(the “ERA 1996”) shall apply for these purposes (subject to certain
+modifications of no relevance here).  These are complicated provisions.  They
+work by seeking to divide employees into two broad categories: those who have
+“normal working hours” and those who do not.
+
+11.         The
+category of employees with normal working hours sub-divides into three further
+sub-categories:
+(i)  Employees
+whose remuneration varies according to the particular day or time they work
+their normal hours;
+(ii)  Employees
+whose remuneration varies according to the amount of work that they do during
+their normal working hours; and
+(iii)  Employees
+whose remuneration does not vary in the ways described immediately above.
+Employees in the first two sub-categories have their “week’s pay”
+calculated by, broadly, averaging their remuneration for normal hours over a
+period of 12 weeks immediately preceding the calculation date if the employee
+works throughout his normal working hours in a week (see ss.222(2) and
+221(3)).  For the last sub-category, their “week’s pay” is:
+“the amount which is payable by the
+employer under the contract of employment in force on the calculation date if
+the employee works throughout his normal working hours in a week” (s.221(2)).
+
+12.         To
+determine whether or not an employee has “normal working hours” it is necessary
+to consider s.234 ERA 1996 which provides:
+“(1)  Where
+an employee is entitled to overtime pay when employed for more than a fixed
+number of hours in a week or other period, there are for the purposes of this
+Act normal working hours in his case.
+(2)  Subject to subsection
+(3), the normal working hours in such a case are the fixed number of hours.
+(3)  Where in such a case –
+(a)  the contract of
+employment fixes the number or minimum number, of hours of employment in a week
+or other period (whether or not it also provides for the reduction of that
+number or minimum number in certain circumstances), and
+(b)  that number of minimum
+number of hours exceeds the number of hours without overtime,
+the normal working hours are that
+number or minimum number of hours (and not the  number of hours without
+overtime)”.
+
+13.         The
+effect of s.234 is that if an employee has normal working hours (whether or not
+their remuneration varies with the time at which the work is done or with the
+amount of work done), overtime hours do not count when calculating a week’s pay
+unless the contract itself fixes a number of overtime hours that must be
+worked.  Since ‘fixed overtime’ hours are necessarily hours that the employer
+is obliged to offer and that the employee is obliged to work, it is common
+ground  that the relevant elements of pay in this case are not part of a
+“week’s pay” under Regulation 16 WTR as a consequence of the deeming provision
+in s.234 ERA 1996, which effectively excludes payments in respect of overtime
+hours outside “normal working hours” from the domestic calculation of a week’s
+pay no matter how regularly or frequently those additional hours are worked.  For
+employees without normal working hours, their “week’s pay” is determined by
+reference to a 12 week averaging calculation specified at s.224(2) ERA 1996.
+
+14.         Accordingly,
+on the face of the WTR and the ERA 1996, each of the Claimants would have
+normal working hours but the payments in issue relate to hours which are not
+normal working hours within s.234 ERA 1996 and therefore are not included in a
+week’s pay for holiday pay calculation purposes.  However, it is common ground
+on this appeal that a conforming interpretation of the WTR is possible in
+accordance with the interpretive obligation required of domestic courts as
+recognised in  Marleasing SA v La Comercial Internacional de Alimentacion SA
+(Case C-106/89)   [1990] ECR I-4135  (and see also in this context,  Bear
+Scotland Ltd v Fulton   [2015] ICR 221  where Langstaff P held, at paragraph
+66, that a conforming interpretation is possible in the context of
+non-guaranteed overtime payments, as to which see further below).  In any
+event, the provisions of Article 7 of the WTD are directly effective in this
+case.  The question accordingly is the proper meaning and effect of Article 7
+of the WTD, and whether the relevant elements of pay are within its scope.
+
+15.         Article
+7 of the WTD provides;
+“Annual Leave
+1.  Member States shall
+take the measures necessary to ensure that every worker is entitled to paid
+annual leave of at least four weeks in accordance with the conditions for
+entitlement to, and granting of, such leave laid down by national legislation
+or practice.
+2.  The minimum period of
+paid annual leave may not be replaced by an allowance in lieu, except where the
+employment relationship is terminated.”
+
+This has been described as a particularly important principle of
+EU social law from which there can be no derogations: see  BECTU   [2001] ICR 1152  at paragraph 43.  The right to paid holiday is underpinned by Article 31(2)
+of the Charter of Fundamental Rights of the EU.
+
+16.         Neither
+Article 7 nor the WTD more generally make provision in respect of the amount of
+pay that is to be received during any period of annual leave.  However, in  Robinson-Steele
+v R D Retail Services Ltd  C131/04 and C257/04,  [2006] ICR 932 , the ECJ held
+(at paragraph 50):
+“The term ‘paid annual leave’ in
+[Article 7 (1) of the WTD] means that, for the duration of annual leave within
+the meaning of the Directive, remuneration must be maintained.”
+
+The question of what constitutes “normal remuneration” was not addressed
+in  Robinson-Steele  but has been considered in the two cases since then
+referred to above:  Williams  and  Lock .  In  Williams  the
+relevant EU legislation was Directive 2000/79 (“the Air Crew Directive”),
+rather than the WTD, but the questions referred to the Court extended to
+Article 7 of the WTD and both the Advocate General and the CJEU held that the
+same principles apply to both Directives: see paragraphs 39-43 (AG) and paragraphs
+14-15 (CJEU).
+
+17.         The
+Air Crew Directive made provision for 4 weeks’ annual paid leave for mobile
+staff in civil aviation.  Like the WTD, it was silent as to what pay components
+should be included.  In calculating holiday pay, British Airways Plc left out
+of account two payments:  Flying pay supplement and “Time Away from Base”
+allowance.  Those were both payments which arose from the duties that the
+claimant pilots could be required to perform by their contracts of employment
+and did not relate to the undertaking of additional voluntary duties (whether
+by way of non-guaranteed or voluntary overtime).
+
+18.         In
+her opinion Advocate General Trstenjak summarised the effect of  Robinson-Steele ,
+stating (at paragraph 47) that it should be read as requiring that:
+“the level of holiday pay must
+correspond exactly to that of normal remuneration”.
+That in her view was supported by reference to the ILO
+Convention, C132, and  Stringer v Revenue and Customs Commissioners
+[2009] ICR 932 , and at paragraph 51 she said:
+“it is necessary to ensure in this
+regard that the worker does not suffer any disadvantage as a result of deciding
+to exercise his right to annual leave.  A prime example of such a disadvantage
+is any financial loss which…would deter him from exercising that right.”
+
+19.         The
+Advocate General observed that while a member state could divide remuneration
+into different components, an excessively narrow interpretation of what counts
+as remuneration would carry the risk of employers declaring that individual
+components do not count or fragmenting pay in such a way as to minimise levels
+of holiday pay required to be paid.
+
+20.         She
+used as her starting point the definition of “pay” to be found in Article
+141(2) of the Treaty (now Article 157), emphasising its broad definition and
+that it has been found to include certain types of overtime payment (see
+paragraph 77).  That wide definition covered payments representing direct
+consideration for activities carried out by the pilots and indirect payments
+for the activities performed that were compensatory in nature, for example, for
+inconvenient working hours.  She concluded that the supplements at issue in  Williams
+were material components of pay (see paragraph 79).  However, she also stressed
+that the entitlement is only to “normal remuneration”, explaining that there is
+a temporal component to that question and that “normal” can only refer to
+something that has existed over a certain period of time and can be used as a
+point of reference for comparison.  Both elements of pay satisfied this
+requirement too and accordingly were within the concept of “normal
+remuneration” for holiday pay calculation purposes.
+
+21.         In
+its judgment in  Williams  the CJEU endorsed the conclusion of the Advocate
+General, following  Robinson-Steele,  that “remuneration paid in respect of
+annual leave must, in principle, be determined in such a way as to correspond
+to the normal remuneration received by the worker” (paragraph 21).  It held:
+“19  In that context, the court has
+already had occasion to state that the expressly “paid annual leave” in Article
+7(1) of Directive 2003/88 means that, for the duration of “annual leave” within
+the meaning of that Directive, remuneration must be maintained and that, in
+other words, workers must receive their normal remuneration for that period of
+rest: see Robinson-Steele v R D Retail Services Ltd (Jointed Cases C-131/04 and
+C-257/04)  [2006] ICR 932 ; [2006] ECR 1-2531, paragraph 50, Stringer, paragraph
+58.
+20 The purpose of the requirement of
+payment for that leave is to put the worker, during such leave, in a position
+which is, as regards remuneration, comparable to periods of work: see
+Robinson-Steele, para 58 and Stringer, para 60.
+21 As the
+Advocate General states in point 90 of her opinion, it follows from the
+foregoing that remuneration paid in respect of annual leave must, in principle,
+be determined in such a way as to correspond to the normal remuneration
+received by the worker.  It also follows that an allowance, the amount of which
+is just sufficient to ensure that there is no serious risk that the worker will
+not take his leave, will not satisfy the requirements of European Union law .
+22 However,
+where the remuneration received by the worker is composed of several
+components, the determination of that normal remuneration and, consequently, of
+the amount to which that worker is entitled during his annual leave requires a
+specific analysis.  Such is the case with regard to the remuneration of an
+airline pilot as a member of the flight crew of an airline, that remuneration
+being composed of a fixed annual sum and of variable supplementary payments
+which are linked to the time spent flying and to the time spent away from base .
+23 In that
+regard, although the structure of the ordinary remuneration of a worker is
+determined, as such, by the provisions and practice governed by the law of the
+member states, that structure cannot affect the worker’s right, referred to in
+para 19 of the present judgment, to enjoy, during his period of rest and
+relaxation, economic conditions which are comparable to those relating to the
+exercise of his employment .
+24 Accordingly,
+any inconvenient aspect which is linked intrinsically to the performance of the
+tasks which the worker is required to carry out under his contract of
+employment and in respect of which a monetary amount is provided which is
+included in the calculation of the worker’s total remuneration, such as, in the
+case of airline pilots, the time spent flying, must necessarily be taken into
+account for the purposes of the amount to which the worker is entitled during
+his annual leave .
+25 By contrast,
+the components of the worker’s total remuneration which are intended
+exclusively to cover occasional or ancillary costs arising at the time of
+performance of the tasks which the worker is required to carry out under his
+contract of employment, such as costs connected with the time that pilots have
+to spend away from base, need not be taken into account in the calculation of
+the payment to be made during annual leave .
+26 In that
+regard, it is for the national court to assess the intrinsic link between the
+various components which make up the total remuneration of the worker and the
+performance of the tasks which he is required to carry out under his contract
+of employment.  That assessment must be carried out on the basis of an average
+over a reference period which is judged to be representative and in the light
+of the principle established by the case law cited above, according to which
+Directive 2003/88 treats entitlement to annual leave and to a payment on that account
+as being two aspects of a single right: see Robinson-Steele, para 58 and
+Stringer, para 60 .
+27  That stated, it must also be
+pointed out that the court has already held that an employee, working as a
+purser for an airline company and transferred, by reason of her pregnancy,
+temporarily to ground work, was entitled, during her temporary transfer, not
+only to maintenance of her basic salary but also to pay components or
+supplementary allowances relating to her professional status as an employee.
+Accordingly, allowances relating to her seniority, her length of service and
+her professional qualifications had to be maintained: see, to that effect,  Parviainen
+v Finnair Ovi  (Case C-471/08)  [2011] ICR 99 ; [2010] ECR I-6529, para 73.
+That case law also applies to a pregnant worker who has been granted leave from
+work: see  Grassmayr v Bundesminister für Wissenschaft und Forschung
+(Case C-194/08)  [2010] ECR I-6281 , para 65.”
+
+
+22.         Lock
+concerned the question whether normal remuneration for holiday pay purposes
+should include an element to reflect commissions that formed a significant
+element of earnings and that Mr Lock, a salesman, would have made had he not
+taken holiday.
+
+23.         In
+his opinion Advocate General Bot observed that the CJEU’s analysis of the
+situation in  Williams  enabled the court to lay down several criteria for
+including or excluding as appropriate, certain components of pay as ‘normal
+remuneration’ for annual leave pay calculation purposes.  He identified the
+general rule that the structure of a worker’s remuneration cannot detract from
+the right to maintenance of normal remuneration (paragraph 24).  He concluded
+that a decisive criterion for including certain components would be where there
+was an intrinsic link between the pay components and the performance of tasks
+the worker is required to carry out under his contract of employment (paragraph
+27).  Another criterion for inclusion in normal remuneration was identified as
+pay components that relate to the personal and professional status of the
+worker, for example, allowances relating to his or her seniority, length of
+service or professional qualifications.
+
+24.         Applying
+the first of these criteria, the Advocate General considered the commission in  Lock
+to be “normal remuneration”.  At paragraphs 31 to 33 he explained:
+“31. The commission in question is
+directly linked to the work normally carried out by Mr Lock under his contract
+of employment… Moreover, such commission does in fact constitute remuneration
+for the work Mr Lock has carried out himself.  The commission is therefore
+directly linked to that worker’s own work within his undertaking.
+32.  …although the amount of
+commission may fluctuate from month to month … such commission is none the less
+permanent enough for it to be regarded as forming part of that worker’s normal
+remuneration. In other words, it constitutes a constant component of his
+remuneration. …
+33. In my view, an intrinsic link
+does therefore exist between the commission received each month by a worker
+such as Mr Lock and the performance of the tasks he is required to carry out
+under his contract of employment…”
+
+25.         The
+Court reiterated the approach adopted in  Williams  (see paragraphs 26-31),
+agreeing with the Advocate General and expressly endorsing his approach at
+paragraphs 31 to 33.  The CJEU concluded that:
+32. …the commission received by Mr
+Lock is directly linked to his work within the company. Consequently, there is
+an intrinsic link between the commission received each month by Mr Lock and the
+performance of the tasks he is required to carry out under his contract of
+employment.”
+
+26.         In
+terms of domestic authority, two decisions to which I was referred are relevant
+though neither is determinative of the particular issues in this case.  In  Bear
+Scotland Ltd v Fulton and another   [2015] ICR 221  the Employment Appeal
+Tribunal (Langstaff P) was concerned with overtime identified and described as
+“non-guaranteed overtime” (in other words overtime the employer is not obliged
+to provide but if it is offered, the employee is obliged to perform it) and
+whether payments for non-guaranteed overtime were normal remuneration within
+the scope of Article 7 of the WTD.  Among the arguments advanced was an
+argument advanced by  Bear Scotland  that overtime hours on a voluntary or
+non-guaranteed basis are special hours attracting special remuneration which
+was not part of ‘normal remuneration’ as it was not intrinsically linked to the
+worker’s tasks under the contract because a worker has a right to refuse to
+perform those tasks.  Such payments are not for carrying out duties under the
+contract (paragraph 33B-C).  In rejecting this argument, the Employment Appeal
+Tribunal held:
+“44.  Despite the subtlety of many of
+the arguments, the essential points seem relatively simple to me.  “Normal pay”
+is that which is normally received.  As Advocate Genral Trstenjak observed in  Williams ,
+there is a temporal component to what is normal: payment has to be made for a
+sufficient period of time to justify that label.  In cases such as the present,
+however, where the pattern of work is settled, I see no difficulty in
+identifying “normal” pay for the purposes of EU law and accept that, where
+there is no such “normal” remuneration, as average taken over a reference
+period determined by the member state is appropriate.  Accordingly, the
+approach taken in  Williams  is unsurprising.  The court in  Lock
+looked for a direct link between the payment claimed and the work done.  In the
+Hertel and Amec cases, the work was required by the employer.  On the evidence,
+the employment tribunal was entitled to think it was so regularly required for
+payments made in respect of it to be normal remuneration.
+45.  In so far as the test seeks an
+intrinsic or direct link to tasks which a worker is required to carry out
+(stressing those last four words) it would be perverse to hold that overtime in
+these cases was not.  In my view, therefore, article 7 requires and required
+non-guaranteed overtime to be paid during annual leave.  I see no scope for any
+such uncertainty as would persuade me to make a reference to the Court of
+Justice”.
+
+27.
+The Employment Appeal Tribunal held that given the WTR were intended to
+implement the WTD, and there was no intrinsic reason why holiday pay should
+exclude payment for overtime worked where the worker was contractually bound to
+work if required, even though his employer was not bound to offer it,
+Regulation 16 could and should be construed so as to conform with Article 7.
+The conclusion that a conforming interpretation is possible was challenged
+unsuccessfully in the Court of Appeal in  British Gas Trading Ltd. v Lock
+[2017] ICR 1  where the Court unanimously concluded that the WTR could and
+should be interpreted as requiring commission earnings to be taken into account
+when calculating holiday pay in that case, albeit making clear that its
+judgment was confined to Mr Lock’s case.
+
+28.         I
+accept as Mr Jones QC submits that the workers in  Bear Scotland  had no
+right to refuse to perform the overtime work offered to them, whereas in this
+appeal the position is different. Furthermore, in rejecting this argument, the
+Employment Appeal Tribunal did not decide (and was careful not to decide)
+whether payments for voluntary overtime fall to be treated in the same way, in
+other words, as normal remuneration for these purposes.
+
+29.         The
+question whether voluntary overtime pay should count as “normal remuneration”
+was in issue in  Patterson v Castlereagh Borough Council   [2015] NICA 47 .
+The NICA decided that such pay should count but the point of principle was not
+fully argued, because it was conceded.  Although the judgment of the CJEU at
+paragraph 24 of  Williams  was cited, there is no analysis of it at all by
+the NICA.  I accept, as Mr Jones submits, that the decision is not binding on
+this Appeal Tribunal and given the points to which I have just referred, cannot
+have significant persuasive effect.
+
+Ground 1: the scope of Article 7
+30.         In
+light of those authorities, Mr Jones submits that the CJEU has twice considered
+whether particular payments should or should not be treated as “normal
+remuneration” (albeit that on neither occasion were the payments concerned with
+the performance of tasks that were voluntary).  On both occasions, in
+determining what should count as “normal remuneration” and what should not
+count, the Court used a criterion that expressly required an intrinsic link
+between the payment and the performance of tasks that the worker is required to
+carry out under his contract of employment.
+
+31.         Mr
+Jones submits that once it is accepted that only normal remuneration, rather
+than all remuneration counts, a test is required to identify those components
+of pay that count as normal remuneration and those that do not.  He relies on
+paragraph 24 of  Williams  (read with paragraph 26) as setting the test
+for what components of pay count as “normal remuneration”. The test, he
+submits, requires an intrinsic link between the payment and the performance of
+tasks that the worker is required to carry out under his contract of
+employment.  That compulsory contractual language was repeated in  Lock
+and is a critical feature of the test. Paragraph 24 having set out the test,
+paragraph 26 of  Williams  describes how the national court should apply
+that test, hence the wording at the beginning of this paragraph, “in that
+regard”.  If paragraph 24 does not set the test it is difficult to see why the
+concept of an intrinsic link is used and difficult to see why the Advocate
+General in  Lock  referred to this as a “decisive criterion”.
+
+32.         Moreover,
+Mr Jones submits that it is unsurprising that the application of that test in  Williams
+resulted in a conclusion that flying pay and “time away from base” pay are part
+of normal remuneration.  Flying pay is intrinsically linked to the task
+required to be performed by pilots under their contracts of employment and it
+is in the nature of their employment to be inconvenienced by having to perform
+such tasks.  There is also an obvious link in respect of “time away from base”
+pay where the consequence of performing the flying task is to take the pilot
+away from home.  This attracts payment allowances because spending time away as
+a consequence of performing duties under their contracts puts pilots to
+inconvenience.  The same is true of  Lock .  However in the case of
+voluntary overtime the necessary requirement linking the payment to the
+performance of tasks carried out under the contract of employment is missing.  Voluntary
+overtime is not performed under the contract of employment but by reference to
+a separate agreement between the parties.
+
+33.         In
+resisting these submissions, Mr Ford QC submits that the overarching principle
+is that the purpose of this requirement is to ensure that workers benefit from
+remuneration comparable to that paid in respect of periods of work; or to put
+it another way, do not suffer any financial disadvantage as a result of taking
+annual leave.  Because any financial disadvantage may deter a worker (subject
+to de minimis principles) it is incompatible with the objectives of Article 7
+to exclude pay for voluntary overtime from the calculation of pay for
+Regulation 13 annual leave.
+
+34.         Mr
+Ford relies on the Opinions of the Advocates General and the Court in  Williams
+and  Lock  as establishing that principle.  Accordingly, in addition to
+basic pay, payment in respect of annual leave must include payments for any
+“inconvenient aspect” linked to tasks a worker is required to carry out under
+his contract ( Williams  at paragraph 24); payments for seniority, length
+of service and professional qualifications ( Williams  at paragraph 27);
+and payments by way of commission ( Lock  at paragraph 32).  These are all
+illustrations of payments which necessarily fall within the overarching
+principle established by these cases, and therefore within Article 7.  The
+proper approach, he submits, is that in each case, the disputed payment must be
+assessed in light of the objective of Article 7, which is to maintain normal
+remuneration, as the analysis in both  Williams  and  Lock  shows.
+
+35.         I
+prefer the submissions of Mr Ford on this question.  My reasons follow.
+
+36.         There
+is no doubt that the right to paid annual leave is a particularly important
+principle of EU social law, enshrined in Article 31(2) of the Charter.  There
+is no provision for its derogation in the WTD.  Recital 6 to the WTD requires
+account to be taken of the principles of the ILO Convention with regard to the
+organisation of working time.  The ILO has adopted paragraph C132 which is the
+source of the requirement that the full period of holiday to which a worker is
+entitled should be paid at a rate that is “at least his normal or average
+remuneration”.  There is also no doubt that payments in respect of overtime
+(whether that be compulsory, non-guaranteed or voluntary), constitute
+remuneration as a matter of domestic and EU law.
+
+37.         EU
+law requires that normal (not contractual) remuneration must be maintained in respect
+of the four-week period of annual leave guaranteed by Article 7.  That
+overarching principle means that the payments should “correspond to the normal
+remuneration received by the worker” while working: see  Williams  and  Lock .
+The purpose of this requirement is to ensure that a worker does not suffer a
+financial disadvantage by taking leave, which is liable to deter him from
+exercising this important right from which there can be no derogation.
+
+38.         It
+follows in my judgement, that the CJEU in  Williams , having expressly
+endorsed the conclusion of the Advocate General at paragraph 90.2, did not
+purport to set a narrower test at paragraph 24 of its judgment that would have
+the effect of restricting the application of the overarching principle.
+
+39.         Having
+set out the overarching principle, the CJEU made clear that the division of pay
+into different elements cannot affect a worker’s right to receive “normal
+remuneration” in respect of annual leave.  In each case the relevant element of
+pay must be assessed in light of the overarching principle and objective of
+Article 7 which is to maintain normal remuneration so that holiday pay
+corresponds to (and is not simply broadly comparable to) remuneration while
+working (paragraphs 22 and 23).
+
+40.         Further,
+for a payment to count as “normal” it must have been paid over a sufficient
+period of time.  This will be a question of fact and degree.  Items which are
+not usually paid or are exceptional do not count for these purposes.  But items
+that are usually paid and regular across time may do so.
+
+41.         Read
+in that light, paragraph 24 of  Williams  is unsurprising and simply
+reflects the Court’s assessment of the specific payments at issue in that case
+as examined in light of the overarching principle.  That is reinforced by the
+reference to “inconvenient aspects” which were directly relevant to the two
+payments at issue.  Paragraph 24 does not however, set a sole or exclusive test
+of “normal remuneration” dependent on a link between pay and the performance of
+duties undertaken under compulsion of the contract of employment.  Nor does it
+restrict the application of the overarching principle.  If there is an
+intrinsic link between the payment and the performance of tasks required under
+the contract that is decisive of the requirement that it be included within
+normal remuneration.  It is  a  decisive criterion but not the or the only
+decisive criterion.  The absence of such an intrinsic link does not
+automatically exclude such a payment from counting.  That is supported by the
+fact that payments that are personal to the individual such as those relating
+to seniority, length of service and professional qualifications also count for
+normal remuneration purposes even though they are not necessarily linked to
+performance of tasks the worker is required to carry out under the contract of
+employment or to inconvenient aspects of such tasks.
+
+42.         Mr
+Jones’ argument places too much weight on the reference to tasks required to be
+carried out under the contract of employment.  This was not an issue in  Williams
+or  Lock.   In  Williams  the court was deciding whether the payments
+were intrinsically linked to work done by the claimants for the employer or
+whether they reimbursed expenses incurred by them; and not to whether the work
+was compulsorily required under the contract or done on a voluntary basis.  Furthermore
+at paragraph 32 of  Lock  in particular, the CJEU appears to treat work
+within the company as synonymous with the performance of tasks required to be
+carried out under the contract of employment.
+
+43.         Furthermore,
+the exclusion as a matter of principle of payments for voluntary work which is
+normally undertaken would amount to an excessively narrow interpretation of
+normal remuneration that gives rise to the risk of fragmenting of pay into
+different components to minimise levels of holiday pay.  It would result in a
+risk of a worker suffering a financial disadvantage that might deter him from
+exercising these rights contrary to the underlying objective of Article 7.  It
+would carry the risk identified by Advocate General Trstenjak of employers
+setting artificially low levels of basic contracted hours and categorising the
+remaining working time as “voluntary overtime” which does not have to be
+accounted for in respect of paid annual leave.  This is not a fanciful but a
+real objection to the Respondents’ argument as demonstrated by the current
+proliferation of zero hours contracts.
+
+44.         It
+seems to me that applying the overarching principle established by the CJEU in  Williams
+and  Lock , in a case where the pattern of work, though voluntary, extends
+for a sufficient period of time on a regular and/or recurring basis to justify
+the description “normal”, the principle in  Williams  applies and it will
+be for the fact-finding tribunal to determine whether it is sufficiently regular
+and settled for payments made in respect of it to amount to normal
+remuneration.
+
+45.         Accordingly,
+the Employment Tribunal in the present case made no error of law in finding
+that remuneration linked to overtime work that was performed on a voluntary basis
+could be included in normal remuneration for calculating holiday pay.
+
+46.         If
+I am wrong and there is a requirement of an intrinsic link, the link is between
+the payment in question and tasks which a worker is required to carry out under
+his contract of employment, and I consider that this test is satisfied here.
+Absent a contract of employment, the specific agreement or arrangement made for
+voluntary overtime would not exist.  The duties or tasks carried out in either
+case are the same.  It seems to me that the contract of employment constitutes
+an umbrella contract in that sense.  Whatever the position in advance of a
+particular shift, it seems to me that once the Claimants commenced working a
+shift of voluntary overtime or a period of standby duty or callout, they were
+performing tasks required of them under their contracts of employment even if
+there was also a separate agreement or arrangement.  The payments made were all
+directly linked to tasks they were required to perform under their contracts of
+employment and, once those shifts or standby periods began, they were in no
+different position from an employee who is required by his contract to work
+overtime or be on standby or attend callouts.
+
+Ground 2: callout allowances
+47.         This
+ground of appeal relates to the Employment Tribunal’s finding that callout
+payments were linked to compulsory work because (a) once on the rota a worker
+cannot refuse to attend a callout and/or (b) the Claimants were called out to
+do the type of work ordinarily required of them: see paragraph 48 of the
+judgment.
+
+48.         Mr
+Jones submits that this approach impermissibly erodes the distinction between
+compulsory and voluntary work.  Applying approach (a) any voluntary work could
+be considered compulsory, because a worker will always be required actually to
+perform the tasks required of him if he is to receive remuneration for a
+voluntary shift.  If there is compulsion it arises from a specific agreement to
+work the additional hours and not the contract of employment.  Equally,
+applying approach (b) would he submits render voluntary work compulsory
+wherever it was the sort of work carried out ordinarily by that worker.  This
+is likely to be the majority of voluntary work because when arranging overtime
+or callout work employers will typically seek to deploy workers who are trained
+for or accustomed to that type of work.  That does not mean the extra work is
+“intrinsically linked” to the ordinary work.
+
+49.         In
+agreement with Mr Ford, and for the reasons already given, I do not accept the
+premise of this argument.  The focus of the overarching principle derived from  Williams
+is on the maintenance of normal pay; in other words, the pay that is normally
+received by the worker when he or she is working.  The WTD draws no distinction
+between work that involves tasks that are contractually required and those that
+are done as a consequence of volunteering to be on standby or callout or working
+overtime under other special or separate arrangements.  That is simply not its
+focus.  In applying the intrinsic link test, the focus is on the link between
+the payment and the performance of duties or work that is normally done within
+the company or for the employer, to ensure no financial disadvantage as a
+result of taking annual leave in the interests of a worker’s health and safety.
+It would be inconsistent with the overarching principle to exclude payments
+for ‘voluntary’ work that must be performed once the worker commences an
+overtime shift or standby duty and that is normally worked, simply because they
+are not required by the contract of employment.  The question in every case,
+irrespective of the label put on the payment, is whether the payment forms part
+of the worker’s normal remuneration.  If payments for voluntary shifts, standby
+or callout payments are normally paid, they must be included in pay for holiday
+leave to ensure that there is no financial disadvantage as a result of taking
+such leave, irrespective of the source of the obligation to perform the work in
+question.
+
+50.         Nor
+do I consider that there was any error in the Employment Tribunal’s reference
+to the similarity of the work done on the rota or when called out as compared
+with the work ordinarily required during normal contractual working hours.  It
+seems to me that this was a relevant factor for the Tribunal to consider and as
+Mr Ford submits, it reinforced the conclusion that the callout payments were
+for work which was required of the Claimants under their contracts of
+employment.  These workers were called out both because they are plumbers in their
+day jobs and had volunteered to be on the out of hours rota.
+
+Ground 3: out of hours payments
+51.         The
+Respondents contend that, even if contrary to ground 1 there is no principled
+reason why remuneration linked to voluntary work cannot be included in the calculation
+of holiday pay, nevertheless the Tribunal erred in law in holding that the out
+of hours pay (both standby and callout pay) represented “normal pay”: see
+paragraphs 47 and 48 of the judgment.
+
+52.         Here
+it is argued that the Tribunal wrongly conflated the concept of “normal” with
+the concept of “regular”.  It is accepted that the out of hours work done by
+the Claimants was broadly regular because they were on call for one week in
+every four weeks or one week in every five weeks over a number of years.  However,
+the Respondents contend that it does not follow that such work is normal
+because the statute requires a tribunal to determine a worker’s remuneration in
+a normal week.  Normal weeks for these particular workers were, on that basis,
+weeks when they were not on call.  Mr Jones submits that a distinction must be
+drawn between regular overtime performed every week or most weeks which does
+form part of a normal week, and overtime that is performed, albeit regularly,
+in only a minority of weeks.  The latter pattern of work gives rise to normal
+weeks which are the majority of weeks without overtime and to extraordinary or
+special weeks, where the worker performs overtime or is on call.  He submits
+that remuneration earned in such special weeks is not part of normal
+remuneration.  He contends that this distinction is consistent with the
+underlying purpose of the WTD.  Workers typically take holiday in blocks of
+one, two or perhaps three weeks.  If such a worker performs overtime on a
+regular weekly pattern, he will necessarily be forgoing overtime by taking
+holiday.  However where the overtime is performed less frequently, say once a
+month, the worker may take holiday in between shifts of overtime so as to
+retain all available opportunities to earn additional remuneration.  That, he
+submits, is what happened in this case.  In these circumstances the Claimants
+were not deterred from taking holiday.  They simply took it in between their
+weeks on call and the effect of the Tribunal’s judgment is accordingly to overcompensate
+them by paying them in respect of an opportunity that they have not missed.
+
+53.         I
+do not accept these arguments.  The focus in Article 7 is on normal
+remuneration and not the normal working week.  As already indicated, whether a
+payment is normal is a question of fact and degree.  Questions of frequency and
+regularity are likely to play a part in determining whether a payment is normal
+because a payment that is made on a regular basis suggests that it is a
+“systemic component” of remuneration (see paragraph 86 of the Advocate
+General’s Opinion in  Williams ) that is usually or normally paid.
+
+54.         Moreover,
+I see no difficulty in principle in concluding that a payment is normally made
+if paid over a sufficient period of time on a regular basis, say for one week
+each month or one week in every five weeks, even if it is not paid more
+frequently or even each week.  These are questions of fact for a tribunal and
+here, in my judgment, the Tribunal was entitled to find that pay for working on
+this basis was part of normal remuneration.  It was neither exceptional nor
+unusual.  Fluctuations in the amount paid would be catered for by the 12 week
+average.
+
+55.         Nor
+do I accept that as a matter of law, if workers have the opportunity to take
+annual leave in weeks with no overtime or out of hours shifts, this means they
+are not deterred from taking holiday by the failure to include within normal
+remuneration for paid leave pay for such overtime or out of hours shifts.  A
+deterrent effect is inferred from a reduction in remuneration rather than from
+actual evidence that a worker has not taken annual leave.  The real question is
+whether normal remuneration is maintained in respect of annual leave guaranteed
+by Article 7.  If it is not, a deterrent effect is presumed irrespective of the
+opportunity the worker had to take annual leave at a different time or suffered
+a financial loss as a result of taking annual leave when he or she did.
+
+56.         So
+far as the individual position of each Claimant is concerned, I accept Mr
+Ford’s submission that the issue of individual loss was not before the Tribunal
+and the Tribunal made no findings in this regard. It will be a question for a
+future hearing whether each individual Claimant suffered loss as a result of
+taking leave when he or she did. That will require a focus on issues such as
+the working pattern of each individual, what they normally did and when at work
+and what they would have earned if they did not take annual leave. I do not
+read the judgment as having determined these issues.
+
+Conclusion
+For all these reasons and notwithstanding the clear and well
+articulated arguments advanced by Mr Jones, the appeal is dismissed.  I am
+grateful to both counsel for their assistance in dealing with this appeal.
+
+
+
+
+
+
+
+]]></case_text></basic_case_document>
