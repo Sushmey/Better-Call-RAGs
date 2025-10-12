@@ -83,7 +83,7 @@ class MixedFileTypeLoader(BaseLoader):
             reader = pypdf.PdfReader(f)
             text = ''
             for page in reader.pages:
-                text += page.extract_text() + '\n'
+                text = f"{text}{page.extract_text()}'\n'"
             return text.strip()
 
     def _load_word(self):
@@ -136,8 +136,10 @@ def create_retrieval_qa(folder_path):
 			)
 
 	try:
-		doc = mixed_loader.load();print(type(doc))
-		text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+		doc = mixed_loader.load()
+		text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0);
+		if(isinstance(doc,str)):
+			doc = text_splitter.create_documents([doc])
 		docs = text_splitter.split_documents(doc)
 		print(type(docs))
 		encoder =  HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
@@ -163,7 +165,7 @@ st.write(
 
 # Let the user upload a file via `st.file_uploader`.
 uploaded_file = st.file_uploader(
-    "Upload a document", type=["xml","csv","txt"]
+    "Upload a document", type=["xml","csv","txt", "pdf"]
 )
 
 # Ask user for their OpenAI API key via `st.text_input`.
