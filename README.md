@@ -57,16 +57,10 @@ pip install -r requirements.txt
 
 ##  Usage
 
-1. Add your documents to the /data folder.
-2. Run the script to build embeddings and create the index:
-   python build_index.py
-3. Start querying your document base:
-   python query.py
-4. Example query:
-   Enter your query: What are the conditions for breach of contract?
-
-   Response:
-   Based on precedent cases, a breach of contract requires evidence of agreement, consideration, and a failure of performance obligations...
+1. Add your documents to the /data folder or upload them through the web interface.  
+2. Run the script to build embeddings and launch the Streamlit UI:  
+   streamlit run app.py  
+3. Start querying your document base in the text box.
 
 ---
 
