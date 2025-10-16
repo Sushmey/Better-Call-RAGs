@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 1. Add your documents to the /data folder or upload them through the web interface.  
 2. Run the script to build embeddings and launch the Streamlit UI:  
-   streamlit run app.py  
+   ```streamlit run app.py ```
 3. Start querying your document base in the text box.
 
 ---
